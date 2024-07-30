@@ -11,6 +11,9 @@ Hi! I am Amruta Parulekar, a fifth year undergraduate at the Indian Institute of
 
 I have worked under the guidance of Prof. Amit Sethi for using multimodal (primarily image) data for medical diagnostics. I have also been guided by Prof. Lueder Kahrs on using computer vision techniques for laryngeal surgery assistance. I am currently working under Prof. Preethi Jyothi on multilingual speech recognition and generation for low resource languages. I have been awarded two Undergraduate Research awards by IIT Bombay for these research contributions.
 
+* Links to my [3 page CV](http://Amparulekar.github.io/files/3PG_UNIV_JULY2024.pdf) and [1 page CV](http://Amparulekar.github.io/files/1PG_UNIV_JULY2024.pdf)
+* Links to my [projects](http://Amparulekar.github.io/_portfolio) and their [Github repositories](https://github.com/Amparulekar?tab=repositories)
+* Link to my [publications](http://Amparulekar.github.io/_publications)
 
 Research Interests
 ======
@@ -31,9 +34,9 @@ table, td, th {
    border: none;
 }
 </style>
-**Jul 2024**       | Scored 332/340 in the Graduate Records Exam (GRE) and 115/120 in the TOEFL!  
-**May 2024**       | At the 145th American Laryngological Association meet (COSM), Chicago, to present our poster on a computer vision pipeline for laryngoscopic image standardization!  
-**Apr 2024**       | Awarded the Best Mentor Award under the department academic mentorship program at IIT Bombay!  
+**Jul 2024** | Scored 332/340 in the Graduate Records Exam (GRE) and 115/120 in the TOEFL!  
+**May 2024** | At the 145th American Laryngological Association meet (COSM), Chicago, to present our poster on a computer vision pipeline for laryngoscopic image standardization!  
+**Apr 2024** | Awarded the Best Mentor Award under the department academic mentorship program at IIT Bombay!  
 **Feb 2024** | At the Bioimaging conference (BIOSTEC), Rome, to present our paper on a novel loss function to combine datasets with different label sets for improved nucleus segmentation and classification - nominated for the Best Paper Award!
 **Jan 2024** | My work at the University of Toronto as first author, *A Computer Vision Pipeline for Laryngoscopic Image Standardization through Histogram Matching* was accepted to the 145th ALA meet as a poster presentation!
 **Dec 2023** | My work at the IIT Bombay as first author, *Combining Datasets with Different Label Sets for Improved Nucleus Segmentation and Classification* was accepted to the BIOIMAGING 2024 (BIOSTEC) conference!
