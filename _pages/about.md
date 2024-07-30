@@ -18,7 +18,7 @@ Research Interests
 I love working on real-world applications of Artificial Intelligence and Machine Learning. I also enjoy mixing modalities and have experimented with speech, text, image as well as numerical data. Be it computer vision, natural language processing, or reinforcement learning, I like learning and exploring the concepts and then using them to try and make a difference where I can! Some examples include:
 
 * Working in collaboration with doctors to use artificial intelligence techniques for more efficient diagnosis and treatment of different health conditions.
-* Building and deploying tools for automatic speech recognition, speech generation and machine translation for low resource Indian and African Languages.
+* Building and deploying tools for automatic speech recognition, speech generation and machine translation to aid education in low resource languages.
 * Developing tools for industrial safety such as accident predictors in power plants and personal protective equipment detectors for factory workers.
 
 In my free time, I enjoy art, photography and music. I play the keyboard and have tried my hand at every medium, from pencil sketching, water colors, to acryllics on canvas and even roads. 
