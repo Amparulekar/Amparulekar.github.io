@@ -21,7 +21,11 @@ In my free time, I enjoy art, photography and music. I play the keyboard and hav
 
 News!
 ======
-
+<style>
+table, td, th {
+   border: none;
+}
+</style>
  **Jan 2024** | At the 145th American Laryngological Association meet (COSM), Chicago, to present our poster on a computer vision pipeline for laryngoscopic image standardization.  
  Second       | Centimetre     
  Minute       | Inch           
