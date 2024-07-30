@@ -31,7 +31,7 @@ table, td, th {
    border: none;
 }
 table th:first-of-type {
-    width: 10%;
+    width: 20%;
 }
 </style>
 **Jul 2024** | Scored 332/340 in the Graduate Records Exam (GRE) and 115/120 in the TOEFL!  
