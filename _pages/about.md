@@ -30,14 +30,11 @@ News!
 table, td, th {
    border: none;
 }
-table th:first-of-type {
-    width: 20%;
-}
-{
+table{
   font-size: 13px
 }
 </style>
-**'Jul 2024'** | Scored 332/340 in the Graduate Records Exam (GRE) and 115/120 in the TOEFL!  
+**Jul 2024** | Scored 332/340 in the Graduate Records Exam (GRE) and 115/120 in the TOEFL!  
 **May 2024** | At the 145th American Laryngological Association meet (COSM), Chicago, to present our poster on a computer vision pipeline for laryngoscopic image standardization!  
 **Apr 2024** | Awarded the Best Mentor Award under the department academic mentorship program at IIT Bombay!  
 **Feb 2024** | At the Bioimaging conference (BIOSTEC), Rome, to present our paper on a novel loss function to combine datasets with different label sets for improved nucleus segmentation and classification - nominated for the Best Paper Award!
