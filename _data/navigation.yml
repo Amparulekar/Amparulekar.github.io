@@ -9,11 +9,8 @@ main:
   - title: "Teaching & Mentoring"
     url: /teaching/    
     
-  - title: "Research Projects"
-    url: /researchportfolio/
-    
-  - title: "Academic Projects"
-    url: /academicportfolio/
+  - title: "Projects"
+    url: /portfolio/
         
   - title: "Blog Posts"
     url: /year-archive/
