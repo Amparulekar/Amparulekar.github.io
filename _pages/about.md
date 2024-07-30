@@ -21,18 +21,10 @@ In my free time, I enjoy art, photography and music. I play the keyboard and hav
 
 News!
 ======
-<style>
-td, th {
-   border: none!important;
-}
-</style>
 
-
- Time         | Length        | 
- ------------ | ------------- | 
- -Millisecond | Millimetre    | 
- Second       | Centimetre    | 
- Minute       | Inch          | 
+ **Jan 2024** | At the 145th American Laryngological Association meet (COSM), Chicago, to present our poster on a computer vision pipeline for laryngoscopic image standardization.  
+ Second       | Centimetre     
+ Minute       | Inch           
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5dzsdg8h2xn&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
 
