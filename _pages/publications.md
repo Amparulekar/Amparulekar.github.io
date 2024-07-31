@@ -15,12 +15,16 @@ Publications
 -------------
 
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  {% if post.ispaper == "yes" %}
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
 
 Presentations
 ----------------
 
-{% for post in site.presentations reversed %}
-  {% include archive-single.html %}
+{% for post in site.publications reversed %}
+  {% if post.ispaper == "no" %}
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
