@@ -227,6 +227,15 @@ defaults:
       comments: true
       share: true
       related: true
+  # _presentations
+  - scope:
+      path: ""
+      type: presentations
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _pages
   - scope:
       path: ""
