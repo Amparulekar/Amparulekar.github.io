@@ -3,7 +3,7 @@ title: "Combining Datasets with Different Label Sets for Improved Nucleus Segmen
 collection: publications
 permalink: /publication/1
 excerpt: 'A novel loss function and training technique that can be integrated with a multitude of architectures, for consolidating class labels of different nuclei segmentation and classification datasets'
-date: 2024
+date: 2024-02-21
 venue: 'Published in Bioimaging (BIOSTEC)'
 slidesurl: 'http://amparulekar.github.io/files/Bioimaging2024.pdf'
 paperurl: 'https://www.scitepress.org/Papers/2024/123808/123808.pdf'
