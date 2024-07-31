@@ -21,6 +21,6 @@ Publications
 Presentations
 -------------
 
-{% for post in site.publications reversed %}
+{% for post in site.presentations reversed %}
   {% include archive-single.html %}
 {% endfor %}
