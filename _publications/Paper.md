@@ -1,7 +1,7 @@
 ---
 title: "Combining Datasets with Different Label Sets for Improved Nucleus Segmentation and Classification"
 collection: publications
-ispaper: yes
+ispaper: "yes"
 permalink: /publication/1
 excerpt: 'A novel loss function and training technique that can be integrated with a multitude of architectures, for consolidating class labels of different nuclei segmentation and classification datasets'
 date: 2024-02-21
