@@ -1,12 +1,11 @@
 ---
-title: "Combining Datasets with Different Label Sets for Improved Nucleus Segmentation and Classification"
+title: "Transforming Breast Cancer Diagnosis: Towards Real-Time Ultrasound to Mammogram Conversion for Cost-Effective Diagnosis"
 collection: publications
 ispaper: "yes"
-permalink: /publication/1
-excerpt: 'A novel loss function and training technique that can be integrated with a multitude of architectures, for consolidating class labels of different nuclei segmentation and classification datasets'
-date: 2024-02-21
-venue: 'Published in Bioimaging (BIOSTEC)'
-slidesurl: 'http://amparulekar.github.io/files/Bioimaging2024.pdf'
+permalink: /publication/2
+excerpt: 'Interconversion of CT scans and ultrasounds using wave interference patterns, GANs and fourier domain adaptation'
+date: 2023-02-21
+venue: 'Submitted to Ultrasound journal'
 paperurl: 'https://www.scitepress.org/Papers/2024/123808/123808.pdf'
 citation: 'Parulekar A., Kanwat U., Gupta R., Chippa M., Jacob T., Bameta T., Rane S. and Sethi A. (2024). Combining Datasets with Different Label Sets for Improved Nucleus Segmentation and Classification. In Proceedings of the 17th International Joint Conference on Biomedical Engineering Systems and Technologies - Volume 1: BIOIMAGING; ISBN 978-989-758-688-0, SciTePress, pages 281-288. DOI: 10.5220/0012380800003657'
 ---

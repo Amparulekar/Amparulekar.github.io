@@ -252,8 +252,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-    additional_folders: 
-      - presentations
   # _portfolio
   - scope:
       path: ""
