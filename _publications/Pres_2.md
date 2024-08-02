@@ -1,14 +1,19 @@
 ---
-title: "Combining Datasets with Different Label Sets for Improved Nucleus Segmentation and Classification"
+title: "A Computer Vision Pipeline for Laryngoscopic Image Standardization through Histogram Matching"
 collection: publications
 ispaper: "no"
-permalink: /publication/2
-excerpt: 'A novel loss function and training technique that can be integrated with a multitude of architectures, for consolidating class labels of different nuclei segmentation and classification datasets'
-date: 2024-02-21
-venue: 'Published in Bioimaging (BIOSTEC)'
-slidesurl: 'http://amparulekar.github.io/files/Bioimaging2024.pdf'
-paperurl: 'https://www.scitepress.org/Papers/2024/123808/123808.pdf'
-citation: 'Parulekar A., Kanwat U., Gupta R., Chippa M., Jacob T., Bameta T., Rane S. and Sethi A. (2024). Combining Datasets with Different Label Sets for Improved Nucleus Segmentation and Classification. In Proceedings of the 17th International Joint Conference on Biomedical Engineering Systems and Technologies - Volume 1: BIOIMAGING; ISBN 978-989-758-688-0, SciTePress, pages 281-288. DOI: 10.5220/0012380800003657'
+permalink: /publication/3
+excerpt: 'A preprocessing pipeline for larynogoscopic videos that includes removal of unusable frames, illumination correction, specularity removal and finally color transfer to a target intensity distribution.'
+date: 2024-05-16
+venue: 'Poster presented in the 145th American Laryngological Association meet (COSM), Chicago,'
+slidesurl: 'https://medcvr.utm.utoronto.ca/ala2024-histogrammatching.html'
+citation: 'Parulekar, A., Wiercigroch, J., Kahrs, L. A., & Lin, R. J. (2024). A Computer Vision Pipeline for Laryngoscopic Image Standardization through Histogram Matching.'
 ---
 
-Using deep neural networks (DNNs) to segment and classify cell nuclei can help pathologists diagnose diseases faster, including cancer. DNNs get more accurate with more annotated datasets for training. The published datasets with nuclei annotations and labeling vary in their class label sets. We present a method for training DNNs on numerous datasets with related but distinct classes. Our solution uses class hierarchies, allowing for classes at any level of a dataset. Our results show that pre-training on a different dataset can improve segmentation and classification metrics for the test split's class set. This strategy allows for the enlargement of the training set. Combining numerous datasets with diverse classifications increases generalization to new datasets. The improvements are both qualitative and quantitative. The suggested technique can be tailored to different loss functions, DNN architectures, and application areas.
+Objectives: Endoscopic light and recording towers can create inconsistent lighting and color variation during laryngoscopies, posing obstacles for current diagnosis and treatment planning. We propose a computer vision pipeline for standardizing laryngoscopic pictures, which would allow for better treatment planning, consistent data collecting, and comparison across examinations and visits. 
+
+Methods: Twenty movies of 14 patients were captured using two laryngoscopes with halogen and strobe lighting. Stills from these videos were retrieved and combined with publically available laryngoscopic images. Following preprocessing, photos were divided into bins based on color similarity, and two intensity thresholds were set for each bin to improve dark pixels and over-illuminated areas. Histogram matching was utilized to turn the photos into the target pixel intensity distribution by comparing them to the average histogram from a specific bin. The correlation between each image and the target histogram was measured before and after histogram matching to assess color transformation. 
+
+Results: Image enhancement and histogram matching improved the correlation for 471 of the 504 photos altered, indicating a better connection with the target histogram. The pipeline normalized our own data correlations so that 96% of photos were within the required bin range. 
+
+Conclusion: Our pipeline enhanced image quality and standardized the pixel intensity distribution across light sources and laryngoscopes. Standardizing laryngoscopic images has the potential to improve diagnosis and treatment planning in clinical routines or to create standardized datasets for artificial intelligence tasks. 
