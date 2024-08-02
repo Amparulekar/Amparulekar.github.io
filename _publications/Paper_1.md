@@ -5,7 +5,7 @@ ispaper: "yes"
 permalink: /publication/1
 excerpt: 'A novel loss function and training technique that can be integrated with a multitude of architectures, for consolidating class labels of different nuclei segmentation and classification datasets.'
 date: 2024-02-21
-venue: 'Published and presented in Bioimaging (BIOSTEC), Rome,'
+venue: 'Published and presented in Bioimaging (BIOSTEC), Rome'
 slidesurl: 'http://amparulekar.github.io/files/Bioimaging2024.pdf'
 paperurl: 'https://www.scitepress.org/Papers/2024/123808/123808.pdf'
 citation: 'Parulekar A., Kanwat U., Gupta R., Chippa M., Jacob T., Bameta T., Rane S. and Sethi A. (2024). Combining Datasets with Different Label Sets for Improved Nucleus Segmentation and Classification. In Proceedings of the 17th International Joint Conference on Biomedical Engineering Systems and Technologies - Volume 1: BIOIMAGING; ISBN 978-989-758-688-0, SciTePress, pages 281-288. DOI: 10.5220/0012380800003657'

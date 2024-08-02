@@ -5,7 +5,7 @@ ispaper: "no"
 permalink: /publication/3
 excerpt: 'A preprocessing pipeline for larynogoscopic videos that includes removal of unusable frames, illumination correction, specularity removal and finally color transfer to a target intensity distribution.'
 date: 2024-05-16
-venue: 'Poster presented in the 145th American Laryngological Association meet (COSM), Chicago,'
+venue: 'Poster presented in the 145th American Laryngological Association meet (COSM), Chicago'
 slidesurl: 'https://medcvr.utm.utoronto.ca/ala2024-histogrammatching.html'
 citation: 'Parulekar, A., Wiercigroch, J., Kahrs, L. A., & Lin, R. J. (2024). A Computer Vision Pipeline for Laryngoscopic Image Standardization through Histogram Matching.'
 ---
