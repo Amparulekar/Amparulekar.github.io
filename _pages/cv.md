@@ -1,14 +1,26 @@
 ---
 layout: archive
-title: "CV"
+title: "Technical Projects"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 {% include base_path %}
 
+Internships
+-----------------------
+
 {% for post in site.portfolio %}
-  {% include archive-single.html %}
+  {% if post.isintern == "yes" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+Academic Projects 
+-----------------------
+
+{% for post in site.portfolio %}
+  {% if post.isacademic == "yes" %}
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}

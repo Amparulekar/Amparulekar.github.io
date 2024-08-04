@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Portfolio"
+title: "Research projects"
 permalink: /portfolio/
 author_profile: true
 ---
@@ -9,6 +9,8 @@ author_profile: true
 
 
 {% for post in site.portfolio %}
-  {% include archive-single.html %}
+  {% if post.isresearch == "yes" %}
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
 
