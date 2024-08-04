@@ -5,7 +5,7 @@ ispaper: "no"
 permalink: /publication/4
 excerpt: 'An eosinophila detection model conquering severe class imbalance built using UNet architecture.'
 date: 2023-05-30
-venue: 'Poster presented and published in the American Gatroenterology Association meet (DDW), Chicago'
+venue: 'Poster presented in the American Gatroenterology Association meet (DDW), Chicago and published in the Gastroenterology journal'
 slidesurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0016508523038532'
 paperurl: 'https://arxiv.org/pdf/2211.15667'
 citation: 'Shah, H.C., Amarpurkar, A.D., Jacob, T., Parulekar, A.M. and Sethi, A., 2023. EP178 ARTIFICIAL INTELLIGENCE BASED EOSINOPHIL COUNT IN GASTROINTESTINAL TRACT BIOPSY. Gastroenterology, 164(6), pp.S-1229.'
