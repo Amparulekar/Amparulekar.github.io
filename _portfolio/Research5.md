@@ -1,13 +1,13 @@
 ---
 title: "Genomics-based Survival Analysis for Lung Cancer using Multimodal Data"
-excerpt: "*Bachelor’s Thesis-II at the Medical Deep Learning and Artificial Intelligence Lab (In collaboration with TATA Cancer Research Hospital) | Guide: Prof. Amit Sethi*"
+excerpt: "*Bachelor’s Thesis-II at the Medical Deep Learning and Artificial Intelligence Lab (In collaboration with TATA Cancer Research Hospital) Guide: Prof. Amit Sethi*"
 isresearch: "yes"
 isacademic: "no"
 isintern: "no"
 collection: portfolio
 ---
 
-*Bachelor’s Thesis-II at the Medical Deep Learning and Artificial Intelligence Lab (In collaboration with TATA Cancer Research Hospital) | Guide: Prof. Amit Sethi*
+*Bachelor’s Thesis-II at the Medical Deep Learning and Artificial Intelligence Lab (In collaboration with TATA Cancer Research Hospital) Guide: Prof. Amit Sethi*
 
 * Created neural cox proportional hazards models for genomic data using graph neural networks and neural ranking
 * Employed Discriminator-based domain adaptation and transfer learning to use mouse data to fortify human TCGA data

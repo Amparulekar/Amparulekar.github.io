@@ -1,13 +1,13 @@
 ---
 title: "CT reconstruction from Ultrasound Images of Breast Cancer using GANs"
-excerpt: "*Research Assistant at the Medical Deep Learning and Artificial Intelligence Lab, (In collaboration with TATA Cancer Research Hospital) | Guide: Prof. Amit Sethi*"
+excerpt: "*Research Assistant at the Medical Deep Learning and Artificial Intelligence Lab, (In collaboration with TATA Cancer Research Hospital) Guide: Prof. Amit Sethi*"
 isresearch: "yes"
 isacademic: "no"
 isintern: "no"
 collection: portfolio
 ---
 
-*Research Assistant at the Medical Deep Learning and Artificial Intelligence Lab, (In collaboration with TATA Cancer Research Hospital) | Guide: Prof. Amit Sethi*
+*Research Assistant at the Medical Deep Learning and Artificial Intelligence Lab, (In collaboration with TATA Cancer Research Hospital) Guide: Prof. Amit Sethi*
 
 * Pre-processed CTs to speed of sound images to simulate US through wave interference equations using Stride module
 * Applied Fourier Domain Adaptation to enhance the quality of simulated images with authentic ultrasound images
