@@ -12,8 +12,4 @@ collection: portfolio
 face images by interpolating their semantic and stochastic embeddings produced by Diffusion Autoencoders
 
 
-[Download Slides](http://amparulekar.github.io/files/morpheus-presentation.pdf)
-
-[Download Report](http://amparulekar.github.io/files/morpheus-report.pdf)
-
-[Github repository](https://github.com/Amparulekar/Defence-for-Face-morphing-Adversarial-Attacks-on-Facial-Recognition-Systems)
+[Download Slides](http://amparulekar.github.io/files/morpheus-presentation.pdf) ; [Download Report](http://amparulekar.github.io/files/morpheus-report.pdf) ; [Github repository](https://github.com/Amparulekar/Defence-for-Face-morphing-Adversarial-Attacks-on-Facial-Recognition-Systems)
