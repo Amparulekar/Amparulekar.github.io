@@ -1,14 +1,14 @@
 ---
-title: "Structure from Motion with NeRF for Vocal Fold Surgery Assistance"
-excerpt: "*Research Internship at the Medical Computer Vision and Robotics Laboratory, The University of Toronto (MITACS scholarship) Guide: Prof. Lueder Kahrs*"
+title: "Multilingual Automatic Speech Recognition for Low Resource Languages"
+excerpt: "*Research Assistant at the Computational Speech and Language Technologies Lab, IIT Bombay (under the nationwide project BHASHINI) Guides: Prof. Preethi Jyothi, Prof. Pushpak Bhattacharya*"
 isresearch: "yes"
 isacademic: "no"
 isintern: "no"
 collection: portfolio
 ---
 
-*Research Internship at the Medical Computer Vision and Robotics Laboratory, The University of Toronto (MITACS scholarship) Guide: Prof. Lueder Kahrs*
+*Research Assistant at the Computational Speech and Language Technologies Lab, IIT Bombay (under the nationwide project BHASHINI) Guides: Prof. Preethi Jyothi, Prof. Pushpak Bhattacharya*
 
-* Worked on the use of Neural Radiance fields(NeRF) for 3D visualization of vocal folds in sub-glottic stenosis patients
-* Performed automated vocal fold motion tracking using Image processing techniques and the AGATI Software
-* Developed an end-to-end preprocessing pipeline and a fully annotated dataset of laryngoscopic images for further use
+* Modifying Meta’s SeamlessM4T for automatic speech recognition in low resource languages like Maithili and Konkani
+* Harnessing computationally efficient techniques like parameter-efficient finetuning and Low-rank adaptor tuning
+* Evaluating benefits of cross-lingual pivot testing and semi-supervised learning to mitigate lack of annotated data
