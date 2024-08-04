@@ -1,14 +1,14 @@
 ---
-title: "Combining Datasets with Different Label Sets for Improved Nucleus Segmentation and Classification"
+title: "Artificial Intelligence-based Eosinophil Count in Gastrointestinal Tract Biopsy"
 collection: publications
 ispaper: "no"
-permalink: /publication/2
-excerpt: 'A novel loss function and training technique that can be integrated with a multitude of architectures, for consolidating class labels of different nuclei segmentation and classification datasets'
-date: 2024-02-21
-venue: 'Published in Bioimaging (BIOSTEC)'
-slidesurl: 'http://amparulekar.github.io/files/Bioimaging2024.pdf'
-paperurl: 'https://www.scitepress.org/Papers/2024/123808/123808.pdf'
-citation: 'Parulekar A., Kanwat U., Gupta R., Chippa M., Jacob T., Bameta T., Rane S. and Sethi A. (2024). Combining Datasets with Different Label Sets for Improved Nucleus Segmentation and Classification. In Proceedings of the 17th International Joint Conference on Biomedical Engineering Systems and Technologies - Volume 1: BIOIMAGING; ISBN 978-989-758-688-0, SciTePress, pages 281-288. DOI: 10.5220/0012380800003657'
+permalink: /publication/4
+excerpt: 'An eosinophila detection model conquering severe class imbalance built using UNet architecture.'
+date: 2023-05-30
+venue: 'Poster presented and published in the American Gatroenterology Association meet (DDW), Chicago'
+slidesurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0016508523038532'
+paperurl: 'https://arxiv.org/pdf/2211.15667'
+citation: 'Shah, H.C., Amarpurkar, A.D., Jacob, T., Parulekar, A.M. and Sethi, A., 2023. EP178 ARTIFICIAL INTELLIGENCE BASED EOSINOPHIL COUNT IN GASTROINTESTINAL TRACT BIOPSY. Gastroenterology, 164(6), pp.S-1229.'
 ---
 
-Using deep neural networks (DNNs) to segment and classify cell nuclei can help pathologists diagnose diseases faster, including cancer. DNNs get more accurate with more annotated datasets for training. The published datasets with nuclei annotations and labeling vary in their class label sets. We present a method for training DNNs on numerous datasets with related but distinct classes. Our solution uses class hierarchies, allowing for classes at any level of a dataset. Our results show that pre-training on a different dataset can improve segmentation and classification metrics for the test split's class set. This strategy allows for the enlargement of the training set. Combining numerous datasets with diverse classifications increases generalization to new datasets. The improvements are both qualitative and quantitative. The suggested technique can be tailored to different loss functions, DNN architectures, and application areas.
+Eosinophils are normally seen in healthy people's gastrointestinal tracts. When eosinophils in the GI tract rise above their normal levels, a patient has a variety of symptoms. Clinicians have difficulty diagnosing eosinophilia. Patients can benefit from early diagnosis and treatment. Histopathology is considered the gold standard for diagnosing this illness. Because this is an underdiagnosed illness, quantifying eosinophils in GI tract biopsies is crucial. In this study, we trained and evaluated a deep neural network based on UNet to recognize and count eosinophils in gastrointestinal tract biopsies. We employed connected component analysis to extract eosinophils. We investigated the association between eosinophilic infiltration counted by AI and a manual count. The GI tract biopsy slides were stained with H&E stain. Slides were scanned using a camera connected to a microscope, and five high-power field photos were captured each slide. On 300 held-out (test) photos, the Pearson correlation coefficient was 85% for eosinophil counts detected by machine and manually. 
