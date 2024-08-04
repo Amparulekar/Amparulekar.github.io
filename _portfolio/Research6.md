@@ -1,14 +1,14 @@
 ---
-title: "Structure from Motion with NeRF for Vocal Fold Surgery Assistance"
-excerpt: "*Research Internship at the Medical Computer Vision and Robotics Laboratory, The University of Toronto (MITACS scholarship) Guide: Prof. Lueder Kahrs*"
+title: "CT reconstruction from Ultrasound Images of Breast Cancer using GANs"
+excerpt: "*Research Assistant at the Medical Deep Learning and Artificial Intelligence Lab, (In collaboration with TATA Cancer Research Hospital) | Guide: Prof. Amit Sethi*"
 isresearch: "yes"
 isacademic: "no"
 isintern: "no"
 collection: portfolio
 ---
 
-*Research Internship at the Medical Computer Vision and Robotics Laboratory, The University of Toronto (MITACS scholarship) Guide: Prof. Lueder Kahrs*
+*Research Assistant at the Medical Deep Learning and Artificial Intelligence Lab, (In collaboration with TATA Cancer Research Hospital) | Guide: Prof. Amit Sethi*
 
-* Worked on the use of Neural Radiance fields(NeRF) for 3D visualization of vocal folds in sub-glottic stenosis patients
-* Performed automated vocal fold motion tracking using Image processing techniques and the AGATI Software
-* Developed an end-to-end preprocessing pipeline and a fully annotated dataset of laryngoscopic images for further use
+* Pre-processed CTs to speed of sound images to simulate US through wave interference equations using Stride module
+* Applied Fourier Domain Adaptation to enhance the quality of simulated images with authentic ultrasound images
+* Utilized CycleGANs and pix2pix to generate CT scans from simulated ultrasound (US) images, achieving an MSE of 0.008
