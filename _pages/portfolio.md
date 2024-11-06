@@ -13,6 +13,7 @@ author_profile: true
   {% if post.isresearch == "yes" %}
   	{% if post.isnlp == "yes" %}
     		{% include archive-single.html %}
+    	{% endif %}
   {% endif %}
 {% endfor %}
 
@@ -22,5 +23,6 @@ author_profile: true
   {% if post.isresearch == "yes" %}
   	{% if post.iscv == "yes" %}
     		{% include archive-single.html %}
+    	{% endif %}
   {% endif %}
 {% endfor %}
