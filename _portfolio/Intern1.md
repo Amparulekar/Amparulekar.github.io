@@ -4,6 +4,8 @@ excerpt: "JIO Data Science Platform, Reliance JIO"
 isresearch: "no"
 isacademic: "no"
 isintern: "yes"
+isnlp: "no"
+iscv: "no"
 collection: portfolio
 ---
 

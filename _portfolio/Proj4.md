@@ -4,6 +4,8 @@ excerpt: "Course project - EE746 : Neuromorphic engineering - Guide : Prof. Uday
 isresearch: "no"
 isacademic: "yes"
 isintern: "no"
+isnlp: "no"
+iscv: "no"
 collection: portfolio
 ---
 

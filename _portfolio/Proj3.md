@@ -4,6 +4,8 @@ excerpt: "Course project - CS747 : Foundations in Intelligent and Learning Agent
 isresearch: "no"
 isacademic: "yes"
 isintern: "no"
+isnlp: "no"
+iscv: "no"
 collection: portfolio
 ---
 

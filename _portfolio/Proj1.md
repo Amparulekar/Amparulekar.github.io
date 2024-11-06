@@ -4,6 +4,8 @@ excerpt: "Course project - CS726 : Advanced Machine Learning - Guide : Prof. Sun
 isresearch: "no"
 isacademic: "yes"
 isintern: "no"
+isnlp: "no"
+iscv: "no"
 collection: portfolio
 ---
 

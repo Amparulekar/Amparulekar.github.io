@@ -4,6 +4,8 @@ excerpt: "Course project - CS772 : Deep Learning for Natural Language Processing
 isresearch: "no"
 isacademic: "yes"
 isintern: "no"
+isnlp: "no"
+iscv: "no"
 collection: portfolio
 ---
 

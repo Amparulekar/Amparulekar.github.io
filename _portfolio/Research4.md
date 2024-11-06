@@ -4,6 +4,8 @@ excerpt: "*Research Assistant at the Computational Speech and Language Technolog
 isresearch: "yes"
 isacademic: "no"
 isintern: "no"
+isnlp: "no"
+iscv: "yes"
 collection: portfolio
 ---
 

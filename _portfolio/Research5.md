@@ -4,6 +4,8 @@ excerpt: "*Bachelor’s Thesis-II at the Medical Deep Learning and Artificial In
 isresearch: "yes"
 isacademic: "no"
 isintern: "no"
+isnlp: "no"
+iscv: "yes"
 collection: portfolio
 ---
 

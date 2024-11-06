@@ -4,6 +4,8 @@ excerpt: "*Dual Degree Project at the Computational Speech and Language Technolo
 isresearch: "yes"
 isacademic: "no"
 isintern: "no"
+isnlp: "yes"
+iscv: "no"
 collection: portfolio
 ---
 

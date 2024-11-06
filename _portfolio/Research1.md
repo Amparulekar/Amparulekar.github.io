@@ -4,6 +4,8 @@ excerpt: "*Master’s Thesis-I (Nationwide project - Bhashini, NLTM) at the Comp
 isresearch: "yes"
 isacademic: "no"
 isintern: "no"
+isnlp: "yes"
+iscv: "no"
 collection: portfolio
 ---
 

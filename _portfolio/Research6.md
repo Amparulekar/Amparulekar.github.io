@@ -4,6 +4,8 @@ excerpt: "*Research Assistant at the Medical Deep Learning and Artificial Intell
 isresearch: "yes"
 isacademic: "no"
 isintern: "no"
+isnlp: "no"
+iscv: "yes"
 collection: portfolio
 ---
 
