@@ -2,7 +2,7 @@
 title: "A Computer Vision Pipeline for Laryngoscopic Image Standardization through Histogram Matching"
 collection: publications
 ispaper: "no"
-permalink: /publication/3
+permalink: /publication/6
 excerpt: 'A preprocessing pipeline for larynogoscopic videos that includes removal of unusable frames, illumination correction, specularity removal and finally color transfer to a target intensity distribution.'
 date: 2024-05-16
 venue: 'Poster presented in the 145th American Laryngological Association meet (COSM), Chicago'

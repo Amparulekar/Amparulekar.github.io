@@ -2,7 +2,7 @@
 title: "Artificial Intelligence-based Eosinophil Count in Gastrointestinal Tract Biopsy"
 collection: publications
 ispaper: "no"
-permalink: /publication/4
+permalink: /publication/5
 excerpt: 'An eosinophila detection model conquering severe class imbalance built using UNet architecture.'
 date: 2023-05-30
 venue: 'Poster presented in the American Gatroenterology Association meet (DDW), Chicago and published in the Gastroenterology journal'
