@@ -34,12 +34,15 @@ table, td, th {
    border: none;
 }
 </style>
+**Oct 2024** | Submitted our paper titled *PathoGen-X: A Cross-Modal Genomic Feature Trans-Align Network for Enhanced Survival Prediction from Histopathology Images* to IEEE ISBI 2025!
+**Sep 2024** | Submitted our paper titled *AMPS: ASR with Multimodal Paraphrase Supervision* to NAACL 2025!
+**Aug 2024** | My work at IIT Bombay as first author, *Parameter-efficient Adaptation of Multilingual Multimodal Models for Low-resource ASR* was accepted to the Multilingual Representation Learning workshop of EMNLP 2024!
 **Jul 2024** | Scored 332/340 in the Graduate Records Exam (GRE) and 115/120 in the TOEFL!  
 **May 2024** | At the 145th American Laryngological Association meet (COSM), Chicago, to present our poster on a computer vision pipeline for laryngoscopic image standardization!  
 **Apr 2024** | Awarded the Best Mentor Award under the department academic mentorship program at IIT Bombay!  
 **Feb 2024** | At the Bioimaging conference (BIOSTEC), Rome, to present our paper on a novel loss function to combine datasets with different label sets for improved nucleus segmentation and classification - Best Student Paper Award nomination!
 **Jan 2024** | My work at the University of Toronto as first author, *A Computer Vision Pipeline for Laryngoscopic Image Standardization through Histogram Matching* was accepted to the 145th ALA meet as a poster presentation!
-**Dec 2023** | My work at the IIT Bombay as first author, *Combining Datasets with Different Label Sets for Improved Nucleus Segmentation and Classification* was accepted to the BIOIMAGING 2024 (BIOSTEC) conference!
+**Dec 2023** | My work at IIT Bombay as first author, *Combining Datasets with Different Label Sets for Improved Nucleus Segmentation and Classification* was accepted to the BIOIMAGING 2024 (BIOSTEC) conference!
 **Nov 2023** | Received an AP grade (given to less than 2% students) in the Public Health Informatics (DH302) course at IIT Bombay!
 **Oct 2023** | Awarded a second Undergraduate Research Award by IIT Bombay for exceptional contributions to scientific research! 
 **Aug 2023** | Submitted our paper titled *Transforming Breast Cancer Diagnosis: Towards Real- Time Ultrasound to Mammogram Conversion for Cost-Effective Diagnosis* to the Ultrasonics Journal (currently under review)!
@@ -49,7 +52,7 @@ table, td, th {
 **Apr 2023** | Received the best project award in the Electronic Design Lab (EE344) course at IIT Bombay!
 **Mar 2023** | Received the best presentation award in the Automatic speech recognition (CS753) course at IIT Bombay!
 **Jan 2023** | Awarded the prestigious MITACS scholarship for a research internship at the University of Toronto through the Globalink Research Internships program, Canada!
-**Dec 2022** | Our work at the IIT Bombay, *Artificial Intelligence-based Eosinophil Count in Gastrointestinal Tract Biopsy* was accepted to the American Gastroenterology Association meet (Gastroenterology Journal) as a poster presentation!
+**Dec 2022** | Our work at IIT Bombay, *Artificial Intelligence-based Eosinophil Count in Gastrointestinal Tract Biopsy* was accepted to the American Gastroenterology Association meet (Gastroenterology Journal) as a poster presentation!
 **Nov 2022** | Received an AP grade (given to less than 2% students) in the Image Processing (EE610) course at IIT Bombay!
 **May 2021** | Received my first AP grade (given to less than 2% students) in the Biology (BB610) course at IIT Bombay!
 **Oct 2020** | Admitted to IIT Bombay as an Electrical Engineering Dual Degree student!
