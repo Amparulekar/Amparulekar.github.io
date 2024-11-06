@@ -7,7 +7,7 @@ excerpt: 'A preprocessing pipeline for larynogoscopic videos that includes remov
 date: 2024-05-16
 venue: 'Poster presented in the 145th American Laryngological Association meet (COSM), Chicago'
 slidesurl: 'https://medcvr.utm.utoronto.ca/ala2024-histogrammatching.html'
-citation: 'Parulekar, A., Wiercigroch, J., Kahrs, L. A., & Lin, R. J. (2024). A Computer Vision Pipeline for Laryngoscopic Image Standardization through Histogram Matching.'
+citation: 'Parulekar A., Wiercigroch J., Kahrs L. A. and Lin R. J. (2024). A Computer Vision Pipeline for Laryngoscopic Image Standardization through Histogram Matching.'
 ---
 
 Objectives: Endoscopic light and recording towers can create inconsistent lighting and color variation during laryngoscopies, posing obstacles for current diagnosis and treatment planning. We propose a computer vision pipeline for standardizing laryngoscopic pictures, which would allow for better treatment planning, consistent data collecting, and comparison across examinations and visits. 
