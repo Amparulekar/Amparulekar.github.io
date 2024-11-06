@@ -1,10 +1,10 @@
 ---
-title: "Transforming Breast Cancer Diagnosis: Towards Real-Time Ultrasound to Mammogram Conversion for Cost-Effective Diagnosis"
+title: "PathoGen-X: A Cross-Modal Genomic Feature Trans-Align Network for Enhanced Survival Prediction from Histopathology Images"
 collection: publications
 ispaper: "yes"
-permalink: /publication/2
+permalink: /publication/4
 excerpt: 'Developed PathoGen-X, a transformer-based framework that translates histopathology image features into the genomic feature space for improved survival prediction without requiring paired genomic data at testing.'
-date: 2024-11-11
+date: 2024-09-09
 venue: 'Submitted to IEEE ISBI 2025 (International Symposium of Biomedical Imaging)'
 paperurl: 'https://arxiv.org/pdf/2411.00749'
 citation: 'Krishna A., Kurian N. C., Patil A., Parulekar A. and Sethi A. (2024). PathoGen-X: A Cross-Modal Genomic Feature Trans-Align Network for Enhanced Survival Prediction from Histopathology Images. https://arxiv.org/abs/2411.00749 '
