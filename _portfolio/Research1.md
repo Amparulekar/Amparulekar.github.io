@@ -1,13 +1,13 @@
 ---
 title: "Multilingual Automatic Speech Recognition for Low-resource Languages"
-excerpt: "*Master’s Thesis-I (Nationwide project - Bhashini, NLTM) at the Computational Speech and Language Technologies Lab, IIT Bombay | Guides: Prof. Preethi Jyothi, Prof. Pushpak Bhattacharya*"
+excerpt: "*Master’s Thesis-I (Nationwide project - Bhashini, NLTM) at the Computational Speech and Language Technologies Lab, IIT Bombay, Guides: Prof. Preethi Jyothi, Prof. Pushpak Bhattacharya*"
 isresearch: "yes"
 isacademic: "no"
 isintern: "no"
 collection: portfolio
 ---
 
-*Master’s Thesis-I (Nationwide project - Bhashini, NLTM) at the Computational Speech and Language Technologies Lab, IIT Bombay | Guides: Prof. Preethi Jyothi, Prof. Pushpak Bhattacharya*
+*Master’s Thesis-I (Nationwide project - Bhashini, NLTM) at the Computational Speech and Language Technologies Lab, IIT Bombay, Guides: Prof. Preethi Jyothi, Prof. Pushpak Bhattacharya*
 
 **Summary:** *This project involves creating multilingual Automatic Speech Recognition tools robust to mispronunciation, along with requiring low computation, less data and specifically catering to low resource languages.*
 
