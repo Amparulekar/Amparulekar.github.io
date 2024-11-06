@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Natural Language Processing Research
+**Natural Language Processing Research**
 
 {% for post in site.portfolio %}
   {% if post.isresearch == "yes" %}
@@ -16,7 +16,7 @@ Natural Language Processing Research
   {% endif %}
 {% endfor %}
 
-Computer Vision Research
+**Computer Vision Research**
 
 {% for post in site.portfolio %}
   {% if post.isresearch == "yes" %}
