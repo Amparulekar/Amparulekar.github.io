@@ -1,13 +1,13 @@
 ---
-title: "Transforming Breast Cancer Diagnosis: Towards Real-Time Ultrasound to Mammogram Conversion for Cost-Effective Diagnosis"
+title: "Parameter-efficient Adaptation of Multilingual Multimodal Models for Low-resource ASR"
 collection: publications
 ispaper: "yes"
 permalink: /publication/2
-excerpt: 'Interconversion of CT scans and ultrasounds using wave interference patterns, GANs and fourier domain adaptation.'
-date: 2023-08-08
-venue: 'Submitted to the Ultrasonics journal (Under review)'
-paperurl: 'https://arxiv.org/pdf/2308.05449'
-citation: 'Nasser, S. A., Sharma, A., Saraf, A., Parulekar, A. M., Haria, P., & Sethi, A. (2023). Transforming Breast Cancer Diagnosis: Towards Real-Time Ultrasound to Mammogram Conversion for Cost-Effective Diagnosis. https://arxiv.org/abs/2308.05449'
+excerpt: 'Combining speech-based parameter-efficient finetuning and text-only adaptation '
+date: 2024-10-10
+venue: 'Accepted to the 4th Multilingual Representation Learning Workshop, EMNLP 2024'
+paperurl: 'https://arxiv.org/pdf/2410.13445'
+citation: 'Gupta A., Parulekar A., Chattopadhyay S., & Jyothi P. (2024). Parameter-efficient Adaptation of Multilingual Multimodal Models for Low-resource ASR. https://arxiv.org/abs/2410.13445 '
 ---
 
-Ultrasound (US) imaging is ideal for intra-operative situations due to its real-time capabilities and portability compared to other imaging procedures like mammography. US photos have lesser spatial resolution and noise-like characteristics. This study intends to alleviate constraints by giving surgeons with mammogram-like image quality in real-time from noisy US images. Our approach to increasing US image quality recognizes artifacts as informative wave interference patterns (WIP), rather than interpreting them as 'speckle noise' as previously done. We use the Stride software to numerically solve the forward model and generate ultrasound images from mammograms using wave equations. We use domain adaptation to increase the realism of simulated ultrasound pictures. Next, we use generative adversarial networks (GANs) to generate mammogram-quality images from ultrasound data. The resulting photos show clearer details than the original US images.
+Automatic speech recognition (ASR) for low-resource languages remains challenging due to the limited availability of labeled training data. Parameter-efficient fine-tuning and text-only adaptation are two widely used approaches to address these constraints. In this study, we explore how these techniques can be effectively combined using a multilingual multimodal model like SeamlessM4T. Multimodal models can leverage unlabeled text through text-only adaptation alongside parameter-efficient ASR fine-tuning, resulting in improved ASR performance. Additionally, we demonstrate cross-lingual transfer from a high-resource language, achieving up to a 17% relative reduction in WER in a zero-shot setting without any labeled speech data.
