@@ -3,11 +3,11 @@ title: "Transforming Breast Cancer Diagnosis: Towards Real-Time Ultrasound to Ma
 collection: publications
 ispaper: "yes"
 permalink: /publication/2
-excerpt: 'Interconversion of CT scans and ultrasounds using wave interference patterns, GANs and fourier domain adaptation.'
-date: 2023-08-08
-venue: 'Submitted to the Ultrasonics journal (Under review)'
-paperurl: 'https://arxiv.org/pdf/2308.05449'
-citation: 'Nasser, S. A., Sharma, A., Saraf, A., Parulekar, A. M., Haria, P., & Sethi, A. (2023). Transforming Breast Cancer Diagnosis: Towards Real-Time Ultrasound to Mammogram Conversion for Cost-Effective Diagnosis. https://arxiv.org/abs/2308.05449'
+excerpt: 'Developed PathoGen-X, a transformer-based framework that translates histopathology image features into the genomic feature space for improved survival prediction without requiring paired genomic data at testing.'
+date: 2024-11-11
+venue: 'Submitted to IEEE ISBI 2025 (International Symposium of Biomedical Imaging)'
+paperurl: 'https://arxiv.org/pdf/2411.00749'
+citation: 'Krishna A., Kurian N. C., Patil A., Parulekar A. and Sethi A. (2024). PathoGen-X: A Cross-Modal Genomic Feature Trans-Align Network for Enhanced Survival Prediction from Histopathology Images. https://arxiv.org/abs/2411.00749 '
 ---
 
-Ultrasound (US) imaging is ideal for intra-operative situations due to its real-time capabilities and portability compared to other imaging procedures like mammography. US photos have lesser spatial resolution and noise-like characteristics. This study intends to alleviate constraints by giving surgeons with mammogram-like image quality in real-time from noisy US images. Our approach to increasing US image quality recognizes artifacts as informative wave interference patterns (WIP), rather than interpreting them as 'speckle noise' as previously done. We use the Stride software to numerically solve the forward model and generate ultrasound images from mammograms using wave equations. We use domain adaptation to increase the realism of simulated ultrasound pictures. Next, we use generative adversarial networks (GANs) to generate mammogram-quality images from ultrasound data. The resulting photos show clearer details than the original US images.
+Precise survival prediction is crucial for personalized cancer treatment, yet genomic data, which often outperforms pathology data as a predictor, remains costly and difficult to obtain. We introduce PathoGen-X, a cross-modal genomic feature translation and alignment network designed to enhance survival prediction using histopathology images. This deep learning framework combines genomic and imaging data during training but only requires imaging data at testing. PathoGen-X leverages transformer-based networks to align and translate image features into the genomic feature space, strengthening imaging data with genomic insights. Unlike other methods, PathoGen-X translates and aligns features without mapping them to a common latent space and requires fewer paired samples. Validated on the TCGA-BRCA, TCGA-LUAD, and TCGA-GBM datasets, PathoGen-X achieves high performance in survival prediction, highlighting the potential of enriched imaging models for accessible cancer prognosis.
