@@ -15,7 +15,7 @@ collection: portfolio
 
 *Paper submitted to the Ultrasonics Journal. 1 review round completed.*
 
-[Paper link](https://arxiv.org/pdf/2308.05449)
+[**Paper link**](https://arxiv.org/pdf/2308.05449)
 
 * Pre-processed CTs to speed of sound images to simulate US through wave interference equations using the Stride module
 * Applied Fourier Domain Adaptation (FDA) to enhance the quality of simulated images using authentic ultrasound images
