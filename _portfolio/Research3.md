@@ -13,7 +13,7 @@ collection: portfolio
 
 **Summary:** *Segmentation and classification of cell nuclei in biopsies helps with the diagnosis of several conditions, saving clinicians’ time. Staining variability of dyes used, severe class imbalance and variation of class labels in open source datasets were some challenges mitigated by us in this project, to consolidate datasets and detect eosinophilia.*
 
-*Paper published in the 11th International Conference of Bioimaging (BIOSTEC 2024)*
+*Paper published in the 11th International Conference of Bioimaging (BIOSTEC), 2024*
 
 [**Paper link**](https://www.scitepress.org/Papers/2024/123808/123808.pdf), [**Slides link**](https://amparulekar.github.io/files/Bioimaging2024.pdf)
 
