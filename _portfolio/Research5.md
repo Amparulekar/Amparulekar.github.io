@@ -1,6 +1,6 @@
 ---
-title: "Genomics-based Survival Analysis for Lung Cancer using Multimodal Data"
-excerpt: "*Bachelor’s Thesis-II at the Medical Deep Learning and Artificial Intelligence Lab (In collaboration with TATA Cancer Research Hospital) Guide: Prof. Amit Sethi*"
+title: "Computer Vision Techniques for Vocal Fold Surgery Assistance"
+excerpt: "*Research Internship (MITACS GRI Award) at the Medical Computer Vision and Robotics Lab, University of Toronto, Onsite: May’23 - Jul’23, Guide: Prof. Lueder Kahrs University of Toronto*"
 isresearch: "yes"
 isacademic: "no"
 isintern: "no"
@@ -9,9 +9,13 @@ iscv: "yes"
 collection: portfolio
 ---
 
-*Bachelor’s Thesis-II at the Medical Deep Learning and Artificial Intelligence Lab (In collaboration with TATA Cancer Research Hospital) Guide: Prof. Amit Sethi*
+*Research Internship (MITACS GRI Award) at the Medical Computer Vision and Robotics Lab, University of Toronto, Onsite: May’23 - Jul’23, Guide: Prof. Lueder Kahrs University of Toronto*
 
-* Created neural cox proportional hazards models for genomic data using graph neural networks and neural ranking
-* Employed Discriminator-based domain adaptation and transfer learning to use mouse data to fortify human TCGA data
-* Attained 0.88 concordance index by including clinical and image data, and gene subset selection with L1 regularization
-* Created a novel Cross Modal Alignment-based Genomics Token Learning Network that surpassed the TranMIL baseline
+**Summary:** *Image quality is important when training neural networks and noisy images can hurt performance. This project involved tracking the motion of vocal folds and processing laryngoscopy images prior to their 3D visualization.*
+
+*Poster presented at the 145th Annual meet of the American Laryngological Association, COSM 2024, Chicago*
+
+[**Poster link**](https://medcvr.utm.utoronto.ca/ala2024-histogrammatching.html)
+
+* Developed a preprocessing pipeline including specularity removal, colour and illumination correction and image denoising using histogram and GAN-based methods to create a fully annotated laryngoscopic dataset with improved PIQE scores
+* Performed automated vocal fold motion tracking using image processing techniques and the AGATI software
