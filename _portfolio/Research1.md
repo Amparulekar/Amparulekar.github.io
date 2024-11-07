@@ -13,7 +13,9 @@ collection: portfolio
 
 **Summary:** *This project involves creating multilingual Automatic Speech Recognition tools robust to mispronunciation, along with requiring low computation, less data and specifically catering to low resource languages.*
 
-[**Paper link**](https://arxiv.org/pdf/2410.13445)
+*Paper accepted to the 4th Multilingual Representation Learning workshop, EMNLP 2024*
+
+[**Paper link**](https://arxiv.org/pdf/2410.13445), [**Poster link**](http://amparulekar.github.io/files/MRL_poster.pdf)
 
 * Designed a novel strategy to incorporate paraphrase supervision in multimodal models and improve ASR for noisy speech
 * Developed a novel sequential method to combine speech-based parameter-efficient fine-tuning and text-only adaptation for multimodal multilingual models like SeamlessM4T, improving ASR on 10+ low-resource Indian and African languages
