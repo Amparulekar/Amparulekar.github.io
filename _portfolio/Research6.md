@@ -11,7 +11,7 @@ collection: portfolio
 
 *Bachelor’s Project-II (Collaboration with TATA Cancer Research Hospital) at the Medical Deep Learning and Artificial Intelligence Lab, IIT Bombay, Guide: Prof. Amit Sethi*
 
-**Summery:** *In this project, we combined genetic information, chemotherapy drug properties, patient demographics and imaging data of different kinds to predict tumor progression free interval and effectiveness of chemotherapies.*
+**Summary:** *In this project, we combined genetic information, chemotherapy drug properties, patient demographics and imaging data of different kinds to predict tumor progression free interval and effectiveness of chemotherapies.*
 
 *Paper submitted to IEEE ISBI 2025 (International Symposium on Biomedical Imaging*
 
