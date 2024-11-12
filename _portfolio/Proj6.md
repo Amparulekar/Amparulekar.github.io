@@ -14,4 +14,4 @@ collection: portfolio
 * Hypothesized and established age and gender correlation in the prediction of seizures on the CHB-MIT EEG database
 
 
-[Download Slides](http://amparulekar.github.io/files/DH302pres.pdf) ; [Download Report](http://amparulekar.github.io/files/DH302rep.pdf) ; [Github Repository](https://github.com/Amparulekar/Transformer-based-model-for-Seizure-detection-in-EEG-data)
+[Download Slides](http://amparulekar.github.io/files/DH302_pres.pdf) ; [Download Report](http://amparulekar.github.io/files/DH302_report.pdf) ; [Github Repository](https://github.com/Amparulekar/Transformer-based-model-for-Seizure-detection-in-EEG-data)
