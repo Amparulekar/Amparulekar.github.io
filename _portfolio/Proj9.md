@@ -1,6 +1,6 @@
 ---
-title: "Hierarchical Multi-Label Object Detection to Analyze Panoramic Dental X-rays"
-excerpt: "Course project - DH602 : Machine Learning and Statistical Methods in Healthcare - Guide : Prof. Kshitij Jadhav"
+title: "Wavelet transforms for image super-resolution and restoration"
+excerpt: "Course project - EE610 : Image Processing - Guide : Prof. Amit Sethi - Secured an AP grade"
 isresearch: "no"
 isacademic: "yes"
 isintern: "no"
@@ -9,8 +9,7 @@ iscv: "no"
 collection: portfolio
 ---
 
-* Developed a pipeline having a Co-DETR-based tooth detection model and an Efficient-net-based disease classification model with focal loss, intelligent data subset selection and geometric augemntations to counter class imbalance
-* Used Haar-wavelet transform for compression and feature extraction, successfully giving a 50% training time reduction
+* Performed image denoising using neighbouring wavelet coefficients and thresholding and reported PSNR and SSIM
+* Employed techniques like Wiener filtering, Histogram manipulation, Support vector regression for image restoration
 
-
-[Download Slides](http://amparulekar.github.io/files/DH602pres.pdf) ; [Download Report](http://amparulekar.github.io/files/DH602rep.pdf) ; [Github Repository](https://github.com/Amparulekar/Hierarchical-Multi-Label-Object-Detection-to-Analyze-Panoramic-Dental-X-rays)
+[Github Repository](https://github.com/Amparulekar/Wavelet-transforms-for-image-super-resolution-and-restoration)
