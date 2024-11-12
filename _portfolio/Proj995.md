@@ -1,6 +1,6 @@
 ---
-title: "Facial Feature Detection using the Fastai Library"
-excerpt: "Course project - DS303 : Introduction to Machine Learning - Guide : Prof. Biplab Banerjee"
+title: "Fine Grained Classification and Image Denoising using CNNs"
+excerpt: "Course project - GNR638 : Machine Learning for Remote Sensing - Guide : Prof. Biplab Banerjee"
 isresearch: "no"
 isacademic: "yes"
 isintern: "no"
@@ -9,9 +9,9 @@ iscv: "no"
 collection: portfolio
 ---
 
-* Used the cnnlearner Transfer Learning method of the Fastai library, initialized with Resnet18 on the LFW dataset
-* Performed image augmentation and applied facial detection methods to identify the faces in an image
-* Fifteen facial features were extracted and inter-feature distances were used to differentiate between faces
+* Carried out an extensive literature survey on various convolutional neural network architectures within 10M parameters to classify images in the CUB dataset
+* Performed hyperparameter tuning of learning rate, batch size, and number of epochs to improve accuracy from 54.69% to 73.92%
+* Designed and modified a network based on CBDNet to deblur images corrupted using Gaussian blur filters of different sizes and extent of blurring
+* Performed hyperparameter tuning to improve the peak signal-to-noise ratio from 26.68 to 28.42
 
-
-[Download Slides](http://amparulekar.github.io/files/DS303pres.pdf) ; [Download Report](http://amparulekar.github.io/files/DS303rep.pdf) ; [Github Repository](https://github.com/Amparulekar/Facial-Feature-Detection-using-the-Fastai-Library)
+[Download Report 1](http://amparulekar.github.io/files/Miniproject_1.pdf) ; [Download Report 2](http://amparulekar.github.io/files/Miniproject_2.pdf) ; [Github Repository](https://github.com/Amparulekar/Machine-Learning-for-Remote-Sensing)
