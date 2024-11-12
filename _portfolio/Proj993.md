@@ -1,6 +1,6 @@
 ---
-title: "Facial Feature Detection using the Fastai Library"
-excerpt: "Course project - DS303 : Introduction to Machine Learning - Guide : Prof. Biplab Banerjee"
+title: "Data Structures and Algorithms - Summer of Science Project"
+excerpt: "Completed a study report and video presentation under the Math and Physics club"
 isresearch: "no"
 isacademic: "yes"
 isintern: "no"
@@ -9,9 +9,7 @@ iscv: "no"
 collection: portfolio
 ---
 
-* Used the cnnlearner Transfer Learning method of the Fastai library, initialized with Resnet18 on the LFW dataset
-* Performed image augmentation and applied facial detection methods to identify the faces in an image
-* Fifteen facial features were extracted and inter-feature distances were used to differentiate between faces
+* Explored the different kinds of data structures including arrays, strings, lists, stacks, queues, trees and heaps
+* Studied and implemented different kinds of computer algorithms including searching, sorting, recursion, graph algorithms, numerical algorithms and dynamic programming
 
-
-[Download Slides](http://amparulekar.github.io/files/DS303pres.pdf) ; [Download Report](http://amparulekar.github.io/files/DS303rep.pdf) ; [Github Repository](https://github.com/Amparulekar/Facial-Feature-Detection-using-the-Fastai-Library)
+[Download Report](http://amparulekar.github.io/files/SOS_amruta.pdf) ; [Github Repository](https://github.com/Amparulekar/Data-Structures-and-Algorithms)

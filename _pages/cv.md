@@ -16,7 +16,7 @@ Internships
   {% endif %}
 {% endfor %}
 
-Academic Projects 
+Academic Projects - IIT Bombay
 -----------------------
 
 {% for post in site.portfolio %}
