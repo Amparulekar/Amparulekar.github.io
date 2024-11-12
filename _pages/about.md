@@ -11,7 +11,7 @@ Hi! I am Amruta Parulekar, a fifth year undergraduate at the Indian Institute of
 
 I have worked under the guidance of [Prof. Amit Sethi](https://www.ee.iitb.ac.in/~asethi/) for using multimodal (primarily image) data for medical diagnostics. I have also been guided by [Prof. Lueder Kahrs](https://www.utm.utoronto.ca/math-cs-stats/people/lueder-kahrs) on using computer vision techniques for laryngeal surgery assistance. I am currently working under [Prof. Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi/) on multilingual speech recognition and generation for low resource languages. I have been awarded two Undergraduate Research awards by IIT Bombay for these research contributions.
 
-* Links to my [3 page CV](https://drive.google.com/file/d/1l1OQqLgd2a8xD9pN-oRB-PlgdYIgWyBM/view?usp=sharing) and [1 page CV](https://drive.google.com/file/d/1bkNwhwDMEZsPk6IAXwaiDYn9Kh0xSF-y/view?usp=sharing)
+* Links to my [3 page CV](hhttps://drive.google.com/file/d/1Tp4t52LOcahvOvicwNkMcS-9KrKlTwU2/view?usp=sharing) 
 * Links to my [publications](http://Amparulekar.github.io/publications), [Research projects](http://Amparulekar.github.io/portfolio), [Technical projects](http://Amparulekar.github.io/cv) and [Github repositories](https://github.com/Amparulekar?tab=repositories)
 
 
