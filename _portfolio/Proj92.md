@@ -1,6 +1,6 @@
 ---
-title: "Hierarchical Multi-Label Object Detection to Analyze Panoramic Dental X-rays"
-excerpt: "Course project - DH602 : Machine Learning and Statistical Methods in Healthcare - Guide : Prof. Kshitij Jadhav"
+title: "Cardiovascular Disease Prediction Using Data Science Techniques"
+excerpt: "Course project - DS302 : Programming for Data Science - Guide : Prof. Amit Sethi"
 isresearch: "no"
 isacademic: "yes"
 isintern: "no"
@@ -9,8 +9,9 @@ iscv: "no"
 collection: portfolio
 ---
 
-* Developed a pipeline having a Co-DETR-based tooth detection model and an Efficient-net-based disease classification model with focal loss, intelligent data subset selection and geometric augemntations to counter class imbalance
-* Used Haar-wavelet transform for compression and feature extraction, successfully giving a 50% training time reduction
+* Performed Exploratory Data Analysis and preprocessing to identify the major factors responsible for cardiac diseases
+* Implemented Machine Learning and Deep Learning Models along with Hyper-parameter tuning using GridSearchCV
+* Compared the prediction accuracy scores of KNN, SVM, RF, Decision Trees, Naïve Bayes and Neural Networks
 
 
-[Download Slides](http://amparulekar.github.io/files/DH602pres.pdf) ; [Download Report](http://amparulekar.github.io/files/DH602rep.pdf) ; [Github Repository](https://github.com/Amparulekar/Hierarchical-Multi-Label-Object-Detection-to-Analyze-Panoramic-Dental-X-rays)
+[Download Report](http://amparulekar.github.io/files/Report.pdf) ; [Github Repository](https://github.com/Amparulekar/Cardiovascular-Disease-Prediction-Using-Data-Science-Techniques)
