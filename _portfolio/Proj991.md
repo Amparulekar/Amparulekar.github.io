@@ -1,6 +1,6 @@
 ---
 title: "Reflow Oven for Soldering SMD Components on PCBs"
-excerpt: "Course project - EE344 : Electronic Design Lab - Guide : Prof. Siddharth Tallur"
+excerpt: "Course project - EE344 : Electronic Design Lab - Guide : Prof. Siddharth Tallur - Best Project Award"
 isresearch: "no"
 isacademic: "yes"
 isintern: "no"
