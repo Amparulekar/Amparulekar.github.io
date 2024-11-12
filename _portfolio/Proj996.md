@@ -1,6 +1,6 @@
 ---
-title: "Facial Feature Detection using the Fastai Library"
-excerpt: "Course project - DS303 : Introduction to Machine Learning - Guide : Prof. Biplab Banerjee"
+title: "Analysis of Linear Complexity Distribution of Functions"
+excerpt: "Course project - EE793 : Topics in Cryptology - Guide : Prof. Virendra Sule"
 isresearch: "no"
 isacademic: "yes"
 isintern: "no"
@@ -9,9 +9,8 @@ iscv: "no"
 collection: portfolio
 ---
 
-* Used the cnnlearner Transfer Learning method of the Fastai library, initialized with Resnet18 on the LFW dataset
-* Performed image augmentation and applied facial detection methods to identify the faces in an image
-* Fifteen facial features were extracted and inter-feature distances were used to differentiate between faces
+* Analysis of Linear Complexity distribution of the exponential map in prime fields
+* Analysis of Linear Complexity distribution of the quadratic residue function
 
 
-[Download Slides](http://amparulekar.github.io/files/DS303pres.pdf) ; [Download Report](http://amparulekar.github.io/files/DS303rep.pdf) ; [Github Repository](https://github.com/Amparulekar/Facial-Feature-Detection-using-the-Fastai-Library)
+[Download Report](http://amparulekar.github.io/files/crypto.pdf) ; [Github Repository](https://github.com/Amparulekar/Cryptology-Analysis-of-Linear-Complexity-Distribution-of-Functions)
