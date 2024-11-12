@@ -1,6 +1,6 @@
 ---
-title: "Facial Feature Detection using the Fastai Library"
-excerpt: "Course project - DS303 : Introduction to Machine Learning - Guide : Prof. Biplab Banerjee"
+title: "IITB RISC ’22 - A Multi-cycle Processor"
+excerpt: "Course project - EE309 : Microprocessors - Guide : Prof. Virendra Singh"
 isresearch: "no"
 isacademic: "yes"
 isintern: "no"
@@ -9,9 +9,8 @@ iscv: "no"
 collection: portfolio
 ---
 
-* Used the cnnlearner Transfer Learning method of the Fastai library, initialized with Resnet18 on the LFW dataset
-* Performed image augmentation and applied facial detection methods to identify the faces in an image
-* Fifteen facial features were extracted and inter-feature distances were used to differentiate between faces
+* Designed a 16 bit multi-cycle processor with 8 registers and its hardware flowcharts and control words
+* Developed a datapath and a VHDL description for each component and interfaced the components.
 
 
-[Download Slides](http://amparulekar.github.io/files/DS303pres.pdf) ; [Download Report](http://amparulekar.github.io/files/DS303rep.pdf) ; [Github Repository](https://github.com/Amparulekar/Facial-Feature-Detection-using-the-Fastai-Library)
+[Github Repository](https://github.com/Amparulekar/Microprocessors-IITB-RISC)
