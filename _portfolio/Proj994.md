@@ -1,6 +1,6 @@
 ---
-title: "Facial Feature Detection using the Fastai Library"
-excerpt: "Course project - DS303 : Introduction to Machine Learning - Guide : Prof. Biplab Banerjee"
+title: "LASSO - A Gaming Program"
+excerpt: "Course project - CS101 : Computer Programming and Utilization - Guide : Prof. Bhaskaran Raman"
 isresearch: "no"
 isacademic: "yes"
 isintern: "no"
@@ -9,9 +9,8 @@ iscv: "no"
 collection: portfolio
 ---
 
-* Used the cnnlearner Transfer Learning method of the Fastai library, initialized with Resnet18 on the LFW dataset
-* Performed image augmentation and applied facial detection methods to identify the faces in an image
-* Fifteen facial features were extracted and inter-feature distances were used to differentiate between faces
+* Applied object-oriented programming concepts to make a multi-level lasso game using C++
+* Utilized the Standard template library for efficient use of data structures like vectors,maps, strings
+* Added enhancements like bombs and gold coins and used graphics libraries to make the user interface
 
-
-[Download Slides](http://amparulekar.github.io/files/DS303pres.pdf) ; [Download Report](http://amparulekar.github.io/files/DS303rep.pdf) ; [Github Repository](https://github.com/Amparulekar/Facial-Feature-Detection-using-the-Fastai-Library)
+[Download Report](http://amparulekar.github.io/files/README.pdf) ; [Github Repository](https://github.com/Amparulekar/Computer-Programming-and-Utilization-LASSO)
