@@ -1,6 +1,6 @@
 ---
-title: "Hierarchical Multi-Label Object Detection to Analyze Panoramic Dental X-rays"
-excerpt: "Course project - DH602 : Machine Learning and Statistical Methods in Healthcare - Guide : Prof. Kshitij Jadhav"
+title: "Jigsaw puzzle solver using Computer Vision Techniques"
+excerpt: "Course project - CS763 : Computer Vision - Guide : Prof. Sharat Chandran"
 isresearch: "no"
 isacademic: "yes"
 isintern: "no"
@@ -9,8 +9,8 @@ iscv: "no"
 collection: portfolio
 ---
 
-* Developed a pipeline having a Co-DETR-based tooth detection model and an Efficient-net-based disease classification model with focal loss, intelligent data subset selection and geometric augemntations to counter class imbalance
-* Used Haar-wavelet transform for compression and feature extraction, successfully giving a 50% training time reduction
+* Implemented linear programming, greedy algorithm and deep learning approaches to make jigsaw puzzle solvers
+* Improved the accuracy of the deep learning algorithm by creating a cross-entropy-based custom loss function
 
 
-[Download Slides](http://amparulekar.github.io/files/DH602pres.pdf) ; [Download Report](http://amparulekar.github.io/files/DH602rep.pdf) ; [Github Repository](https://github.com/Amparulekar/Hierarchical-Multi-Label-Object-Detection-to-Analyze-Panoramic-Dental-X-rays)
+[Download Slides](http://amparulekar.github.io/files/CVpres.pdf) ; [Github Repository](https://github.com/Amparulekar/Jigsaw-puzzle-solver-using-Computer-Vision-Techniques)
