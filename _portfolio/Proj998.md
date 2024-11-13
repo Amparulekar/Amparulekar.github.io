@@ -13,4 +13,4 @@ collection: portfolio
 * Researched the amalgamation of signal processing and machine learning techniques for ECG signal analysis.
 
 
-[Download Report](http://amparulekar.github.io/files/ECG_RND.pdf) ; [Filter Design 1](http://amparulekar.github.io/files/but.pdf) ; [Filter Design 2](http://amparulekar.github.io/files/che.pdf) ; [Filter Design 3](http://amparulekar.github.io/files/ell.pdf) ; [Filter Design 4](http://amparulekar.github.io/files/fir.pdf) ; [Github Repository](https://github.com/Amparulekar/Digital-Signal-Processing-Filter-Design-and-ECG-Analysis)
+
