@@ -8,7 +8,7 @@ date: 2022-12-12
 location: "IIT Bombay"
 ---
 
-Semester : Spring 2022, IIT Bombay
+
 
 Instructor : Prof. Sushil Mishra 
 

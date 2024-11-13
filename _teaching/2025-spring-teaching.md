@@ -8,7 +8,7 @@ date: 2021-12-12
 location: "IIT Bombay"
 ---
 
-Semester : Autumn 2021, IIT Bombay
+
 
 Instructor : Prof. Ambarish Kunwar and Prof. Hari Verma
 

@@ -8,7 +8,7 @@ date: 2024-12-12
 location: "IIT Bombay"
 ---
 
-Semester : Autumn 2024, IIT Bombay
+
 
 Instructor : Prof. Preethi Jyothi
 
