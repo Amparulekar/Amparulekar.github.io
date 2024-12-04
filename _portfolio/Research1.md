@@ -15,7 +15,9 @@ collection: portfolio
 
 *Paper accepted to the 4th Multilingual Representation Learning workshop, EMNLP 2024*
 
-[**Paper link**](https://arxiv.org/pdf/2410.13445), [**Poster link**](http://amparulekar.github.io/files/MRL_poster.pdf)
+[**Paper 1 link**](https://arxiv.org/pdf/2410.13445), [**Poster link**](http://amparulekar.github.io/files/MRL_poster.pdf)
+
+[**Paper 2 link**](https://arxiv.org/pdf/2411.18368)
 
 * Designed a novel strategy to incorporate paraphrase supervision in multimodal models and improve ASR for noisy speech
 * Developed a novel sequential method to combine speech-based parameter-efficient fine-tuning and text-only adaptation for multimodal multilingual models like SeamlessM4T, improving ASR on 10+ low-resource Indian and African languages
