@@ -34,7 +34,7 @@ table, td, th {
    border: none;
 }
 </style>
-**Oct 2024** | Submitted our paper titled *PathoGen-X: A Cross-Modal Genomic Feature Trans-Align Network for Enhanced Survival Prediction from Histopathology Images* to IEEE ISBI 2025!
+**Jan 2025** | My work at IIT Bombay titled *PathoGen-X: A Cross-Modal Genomic Feature Trans-Align Network for Enhanced Survival Prediction from Histopathology Images* was accepted as a full paper to IEEE ISBI 2025!
 **Sep 2024** | Submitted our paper titled *AMPS: ASR with Multimodal Paraphrase Supervision* to NAACL 2025!
 **Aug 2024** | My work at IIT Bombay as first author, *Parameter-efficient Adaptation of Multilingual Multimodal Models for Low-resource ASR* was accepted to the Multilingual Representation Learning workshop of EMNLP 2024!
 **Jul 2024** | Scored 332/340 in the Graduate Records Exam (GRE) and 115/120 in the TOEFL!  
