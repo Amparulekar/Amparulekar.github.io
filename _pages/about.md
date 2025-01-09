@@ -60,5 +60,7 @@ table, td, th {
 **May 2018** | Felicitated with the Times of India - NIE Student of the Year award for excellence in academics!  
          
 
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5dzsdg8h2xn&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
+<!--<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5dzsdg8h2xn&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
+-->
+<a href="https://info.flagcounter.com/PmBj"><img src="https://s01.flagcounter.com/count2/PmBj/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
