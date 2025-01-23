@@ -11,7 +11,7 @@ Hi! I am Amruta Parulekar, a fifth year undergraduate at the Indian Institute of
 
 I have worked under the guidance of [Prof. Amit Sethi](https://www.ee.iitb.ac.in/~asethi/) for using multimodal (primarily image) data for medical diagnostics. I have also been guided by [Prof. Lueder Kahrs](https://www.utm.utoronto.ca/math-cs-stats/people/lueder-kahrs) on using computer vision techniques for laryngeal surgery assistance. I am currently working under [Prof. Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi/) on multilingual speech recognition and generation for low resource languages. I have been awarded two Undergraduate Research awards by IIT Bombay for these research contributions.
 
-* Links to my [3 page CV](https://drive.google.com/file/d/1_ssXJOg2Awo3faJUDDax_Np3LeSbQK1L/view?usp=sharing) 
+* Links to my [3 page CV](https://drive.google.com/file/d/1TAAi72fVFkRyYp66Ny_u9PMKdGzWgGNF/view?usp=sharing) 
 * Links to my [publications](http://Amparulekar.github.io/publications), [Research projects](http://Amparulekar.github.io/portfolio), [Technical projects](http://Amparulekar.github.io/cv) and [Github repositories](https://github.com/Amparulekar?tab=repositories)
 
 
@@ -34,8 +34,8 @@ table, td, th {
    border: none;
 }
 </style>
+**Jan 2025** | My work at IIT Bombay as first author, *AMPS: ASR with Multimodal Paraphrase Supervision* was accepted to NAACL 2025 (Main conference)!
 **Jan 2025** | My work at IIT Bombay titled *PathoGen-X: A Cross-Modal Genomic Feature Trans-Align Network for Enhanced Survival Prediction from Histopathology Images* was accepted as a full paper to IEEE ISBI 2025!
-**Sep 2024** | Submitted our paper titled *AMPS: ASR with Multimodal Paraphrase Supervision* to NAACL 2025!
 **Aug 2024** | My work at IIT Bombay as first author, *Parameter-efficient Adaptation of Multilingual Multimodal Models for Low-resource ASR* was accepted to the Multilingual Representation Learning workshop of EMNLP 2024!
 **Jul 2024** | Scored 332/340 in the Graduate Records Exam (GRE) and 115/120 in the TOEFL!  
 **May 2024** | At the 145th American Laryngological Association meet (COSM), Chicago, to present our poster on a computer vision pipeline for laryngoscopic image standardization!  
