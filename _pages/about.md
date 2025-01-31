@@ -48,7 +48,7 @@ table, td, th {
 **May 2024** | At the 145th American Laryngological Association meet (COSM), Chicago, to present our poster on a computer vision pipeline for laryngoscopic image standardization!  
 **Apr 2024** | Awarded the Best Mentor Award under the department academic mentorship program at IIT Bombay!  
 **Feb 2024** | At the Bioimaging conference (BIOSTEC), Rome, to present our paper on a novel loss function to combine datasets with different label sets for improved nucleus segmentation and classification - Best Student Paper Award nomination!
-<!--**Jan 2024** | My work at the University of Toronto as first author, *A Computer Vision Pipeline for Laryngoscopic Image Standardization through Histogram Matching* was accepted to the 145th ALA meet as a poster presentation!
+**Jan 2024** | My work at the University of Toronto as first author, *A Computer Vision Pipeline for Laryngoscopic Image Standardization through Histogram Matching* was accepted to the 145th ALA meet as a poster presentation!
 **Dec 2023** | My work at IIT Bombay as first author, *Combining Datasets with Different Label Sets for Improved Nucleus Segmentation and Classification* was accepted to the BIOIMAGING 2024 (BIOSTEC) conference!
 **Nov 2023** | Received an AP grade (given to less than 2% students) in the Public Health Informatics (DH302) course at IIT Bombay!
 **Oct 2023** | Awarded a second Undergraduate Research Award by IIT Bombay for exceptional contributions to scientific research! 
@@ -65,7 +65,7 @@ table, td, th {
 **Oct 2020** | Admitted to IIT Bombay as an Electrical Engineering Dual Degree student!
 **May 2019** | Secured the National Talent Scholarship (NTSE), exclusively granted to the top 0.2% students of the nation! 
 **May 2018** | Felicitated with the Times of India - NIE Student of the Year award for excellence in academics!  
-  -->       
+         
 
 <!--<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5dzsdg8h2xn&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
 -->
