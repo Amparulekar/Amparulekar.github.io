@@ -7,6 +7,13 @@ redirect_from:
   - /about.html
 ---
 
+<!-- Cronitor RUM -->
+<script async src="https://rum.cronitor.io/script.js"></script>
+<script>
+    window.cronitor = window.cronitor || function() { (window.cronitor.q = window.cronitor.q || []).push(arguments); };
+    cronitor('config', { clientKey: '66c56322257af7c8a38c77fdcbb3d750' });
+</script>
+
 Hi! I am Amruta Parulekar, a fifth year undergraduate at the Indian Institute of Technology, Bombay. I am pursuing an integrated B.Tech. in Electrical Engineering and Masters in Artificial Intelligence and Data Science, along with a Minor in Computer Science. I love travelling, hiking, and everything to do with nature. Cats, dogs and coffee happen to be great weaknesses :)
 
 I have worked under the guidance of [Prof. Amit Sethi](https://www.ee.iitb.ac.in/~asethi/) for using multimodal (primarily image) data for medical diagnostics. I have also been guided by [Prof. Lueder Kahrs](https://www.utm.utoronto.ca/math-cs-stats/people/lueder-kahrs) on using computer vision techniques for laryngeal surgery assistance. I am currently working under [Prof. Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi/) on multilingual speech recognition and generation for low resource languages. I have been awarded two Undergraduate Research awards by IIT Bombay for these research contributions.
