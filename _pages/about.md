@@ -18,7 +18,7 @@ Hi! I am Amruta Parulekar, a fifth year undergraduate at the Indian Institute of
 
 I have worked under the guidance of [Prof. Amit Sethi](https://www.ee.iitb.ac.in/~asethi/) for using multimodal (primarily image) data for medical diagnostics. I have also been guided by [Prof. Lueder Kahrs](https://www.utm.utoronto.ca/math-cs-stats/people/lueder-kahrs) on using computer vision techniques for laryngeal surgery assistance. I am currently working under [Prof. Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi/) on multilingual speech recognition and generation for low resource languages. I have been awarded two Undergraduate Research awards by IIT Bombay for these research contributions.
 
-* Links to my [3 page CV](https://drive.google.com/file/d/1TAAi72fVFkRyYp66Ny_u9PMKdGzWgGNF/view?usp=sharing) 
+* Links to my [3 page CV](https://drive.google.com/file/d/1pieth7z1XC4n3Z7DYtlx4tw4OCt45LcE/view?usp=sharing) 
 * Links to my [publications](http://Amparulekar.github.io/publications), [Research projects](http://Amparulekar.github.io/portfolio), [Technical projects](http://Amparulekar.github.io/cv) and [Github repositories](https://github.com/Amparulekar?tab=repositories)
 
 
@@ -41,6 +41,7 @@ table, td, th {
    border: none;
 }
 </style>
+**Apr 2025** | My work at IIT Bombay titled *Transforming Breast Cancer Diagnosis: Towards Real- Time Ultrasound to Mammogram Conversion for Cost-Effective Diagnosis* was accepted to the Ultrasonics Journal!
 **Jan 2025** | My work at IIT Bombay as first author, *AMPS: ASR with Multimodal Paraphrase Supervision* was accepted to NAACL 2025 (Main conference)!
 **Jan 2025** | My work at IIT Bombay titled *PathoGen-X: A Cross-Modal Genomic Feature Trans-Align Network for Enhanced Survival Prediction from Histopathology Images* was accepted as a full paper to IEEE ISBI 2025!
 **Aug 2024** | My work at IIT Bombay as first author, *Parameter-efficient Adaptation of Multilingual Multimodal Models for Low-resource ASR* was accepted to the Multilingual Representation Learning workshop of EMNLP 2024!
@@ -52,7 +53,6 @@ table, td, th {
 **Dec 2023** | My work at IIT Bombay as first author, *Combining Datasets with Different Label Sets for Improved Nucleus Segmentation and Classification* was accepted to the BIOIMAGING 2024 (BIOSTEC) conference!
 **Nov 2023** | Received an AP grade (given to less than 2% students) in the Public Health Informatics (DH302) course at IIT Bombay!
 **Oct 2023** | Awarded a second Undergraduate Research Award by IIT Bombay for exceptional contributions to scientific research! 
-**Aug 2023** | Submitted our paper titled *Transforming Breast Cancer Diagnosis: Towards Real- Time Ultrasound to Mammogram Conversion for Cost-Effective Diagnosis* to the Ultrasonics Journal (currently under review)!
 **Jul 2023** | Selected for IDDDP from Electrical Engineering to C-MInDS (AI/ML) at IIT Bombay! 
 **Jun 2023** | At the University of Toronto for a 3-month summer internship at the Medical Computer Vision and Robotics Lab!
 **May 2023** | Awarded an Undergraduate Research Award by IIT Bombay for exceptional contributions to scientific research! 
