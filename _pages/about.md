@@ -62,7 +62,7 @@ table, td, th {
 **Apr 2024** | Awarded the Best Mentor Award under the department academic mentorship program at IIT Bombay!  
 **Feb 2024** | At the Bioimaging conference (BIOSTEC), Rome, to present our paper on a novel loss function to combine datasets with different label sets for improved nucleus segmentation and classification - Best Student Paper Award nomination!
 **Jan 2024** | My work at the University of Toronto as first author, *A Computer Vision Pipeline for Laryngoscopic Image Standardization through Histogram Matching* was accepted to the 145th ALA meet as a poster presentation!
-<!--**Dec 2023** | My work at IIT Bombay as first author, *Combining Datasets with Different Label Sets for Improved Nucleus Segmentation and Classification* was accepted to the BIOIMAGING 2024 (BIOSTEC) conference!
+<!-- **Dec 2023** | My work at IIT Bombay as first author, *Combining Datasets with Different Label Sets for Improved Nucleus Segmentation and Classification* was accepted to the BIOIMAGING 2024 (BIOSTEC) conference!
 **Nov 2023** | Received an AP grade (given to less than 2% students) in the Public Health Informatics (DH302) course at IIT Bombay!
 **Oct 2023** | Awarded a second Undergraduate Research Award by IIT Bombay for exceptional contributions to scientific research! 
 **Jul 2023** | Selected for IDDDP from Electrical Engineering to C-MInDS (AI/ML) at IIT Bombay! 
