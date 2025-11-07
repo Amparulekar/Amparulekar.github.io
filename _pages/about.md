@@ -14,12 +14,14 @@ redirect_from:
     cronitor('config', { clientKey: '66c56322257af7c8a38c77fdcbb3d750' });
 </script>
 
-Hi! I am Amruta Parulekar, a fifth year undergraduate at the Indian Institute of Technology, Bombay. I am pursuing an integrated B.Tech. in Electrical Engineering and Masters in Artificial Intelligence and Data Science, along with a Minor in Computer Science. I love travelling, hiking, and everything to do with nature. Cats, dogs and coffee happen to be great weaknesses :)
+Hi! I am Amruta Parulekar, a first year Computer Science PhD student at the University of Illinois, Urbana-Champaign. I am an [Amazon AI PhD Fellow](https://www.amazon.science/news/amazon-launches-68-million-ai-phd-fellowship-program) and am advised by [Prof. Hari Sundaram](https://sundaram.cs.illinois.edu/). I will also be closely collaborating with [Prof. Dilek Hakkani-Tur](https://siebelschool.illinois.edu/about/people/all-faculty/dilek).
 
-I have worked under the guidance of [Prof. Amit Sethi](https://www.ee.iitb.ac.in/~asethi/) for using multimodal (primarily image) data for medical diagnostics. I have also been guided by [Prof. Lueder Kahrs](https://www.utm.utoronto.ca/math-cs-stats/people/lueder-kahrs) on using computer vision techniques for laryngeal surgery assistance. I am currently working under [Prof. Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi/) on multilingual speech recognition and generation for low resource languages. I have been awarded two Undergraduate Research awards by IIT Bombay for these research contributions.
+I completed my B.Tech. in Electrical Engineering, M.Tech. in Artificial Intelligence & Data Science, and Minor in Computer Science from the Indian Institute of Technology Bombay. 
+There, I worked with [Prof. Amit Sethi](https://www.ee.iitb.ac.in/~asethi/) on using multimodal (primarily image) data for medical diagnostics. In my third year, I interned with [Prof. Lueder Kahrs](https://www.utm.utoronto.ca/math-cs-stats/people/lueder-kahrs) and used computer vision techniques for laryngeal surgery assistance. For my Master's Thesis, I was advised by [Prof. Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi/), and worked on multilingual speech recognition and generation for low resource languages. I have been awarded two Undergraduate Research awards by IIT Bombay for these research contributions.
 
 * Links to my [3 page CV](https://drive.google.com/file/d/1pieth7z1XC4n3Z7DYtlx4tw4OCt45LcE/view?usp=sharing) 
 * Links to my [publications](http://Amparulekar.github.io/publications), [Research projects](http://Amparulekar.github.io/portfolio), [Technical projects](http://Amparulekar.github.io/cv) and [Github repositories](https://github.com/Amparulekar?tab=repositories)
+* Link to my [Master's Thesis](https://drive.google.com/file/d/1rEDnwir2mBtKfUwmPMCe2uQtS7_W-q3u/view?usp=sharing) titled "Accessible Speech Technologies"
 
 
 Research Interests
@@ -30,9 +32,9 @@ I love working on real-world applications of Artificial Intelligence and Machine
 * Building and deploying tools for automatic speech recognition, speech generation and machine translation to aid education in low resource languages.
 * Developing tools for industrial safety such as accident predictors in power plants and personal protective equipment detectors for factory workers.
 
-I also enjoy teaching and mentoring, having been a teaching assistant for the Automatic Speech Recognition (CS 753) , Engineering Graphics and Drawing (ME 119) and Biology (BB 101) courses at IIT Bombay. I have also been a department academic mentor for over a year and received the best mentor award. I have served as a mentor for several AI/ML programs in IIT Bombay clubs.
+I also enjoy teaching and mentoring, having been a teaching assistant for the Foundations of Machine Learning (Automatic Speech Recognition (CS 753) , Engineering Graphics and Drawing (ME 119) and Biology (BB 101) courses at IIT Bombay. I have also been a department academic mentor for over a year and received the best mentor award. I have served as a mentor for several AI/ML programs in IIT Bombay clubs.
 
-In my free time, I enjoy art, photography and music. I play the keyboard and have tried my hand at every medium, from pencil sketching, water colors, to acryllics on canvas and even roads. 
+I love travelling, hiking, and everything to do with nature. Cats, dogs and coffee happen to be great weaknesses :) In my free time, I enjoy art, photography and music. I play the keyboard and have tried my hand at every medium, from pencil sketching, water colors, to acryllics on canvas and even roads.
 
 News!
 ======
