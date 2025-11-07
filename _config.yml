@@ -37,7 +37,7 @@ author:
   orcid            : # URL
   semantic         : # URL
   pubmed           : # URL
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Amruta-Parulekar"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -65,7 +65,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : 'Amparulekar2'
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
