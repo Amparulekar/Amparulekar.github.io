@@ -18,18 +18,22 @@ Hi! I am Amruta Parulekar, a first year Computer Science PhD student at the Univ
 
 I completed my B.Tech. in Electrical Engineering, M.Tech. in Artificial Intelligence & Data Science, and Minor in Computer Science from the Indian Institute of Technology Bombay. There, I worked with [Prof. Amit Sethi](https://www.ee.iitb.ac.in/~asethi/) on using multimodal (primarily image) data for medical diagnostics. In my third year, I interned with [Prof. Lueder Kahrs](https://www.utm.utoronto.ca/math-cs-stats/people/lueder-kahrs) and used computer vision techniques for laryngeal surgery assistance. For my Master's Thesis, I was advised by [Prof. Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi/), and worked on multilingual speech recognition and generation for low resource languages. I have been awarded two Undergraduate Research awards by IIT Bombay for these research contributions.
 
-* Links to my [3 page CV](https://drive.google.com/file/d/18HkTkDWj2Lczj30pl5w-cT0P6VHmK5Dz/view?usp=sharing) 
+* Links to my [3 page CV](https://drive.google.com/file/d/16fVPXc8s9_qSoGclzUxvhw9Szxj9ZauM/view?usp=sharing) and [2 page CV](https://drive.google.com/file/d/1yBQGqViEfuSxjKjVc-LuVuN3DxriyQAN/view?usp=sharing)
 * Links to my [publications](http://Amparulekar.github.io/publications), [Research projects](http://Amparulekar.github.io/portfolio), [Technical projects](http://Amparulekar.github.io/cv) and [Github repositories](https://github.com/Amparulekar?tab=repositories)
 * Link to my [Master's Thesis](https://drive.google.com/file/d/1rEDnwir2mBtKfUwmPMCe2uQtS7_W-q3u/view?usp=sharing) titled "Accessible Speech Technologies"
 
 
 Research Interests
 ======
-I love working on real-world Artificial Intelligence applications. I also enjoy mixing modalities and have worked with speech, text, image as well as numerical data. I want to use my natural language processing, computer vision and reinforcement learning knowledge to make a difference where I can! The problems that I am currently exploring are:
+
+ The problems that I am currently exploring are:
 
 * Improving the reasoning of LLMs on multimodal, multi-lingual or domain-specific tasks
 * Understanding LLM behaviour such as sycophancy and toxicity and improving user safety
 * User-centric conversational AI, especially multi-lingual and multi-modal usecases
+
+
+I love working on real-world Artificial Intelligence applications. I also enjoy mixing modalities and have worked with speech, text, image as well as numerical data. I want to use my natural language processing, computer vision and reinforcement learning knowledge to make a difference where I can!
 
 <!--* Working in collaboration with doctors to use artificial intelligence techniques for more efficient diagnosis and treatment of different health conditions.
 * Building and deploying tools for automatic speech recognition, speech generation and machine translation to aid education in low resource languages.
@@ -55,7 +59,7 @@ I love working on real-world Artificial Intelligence applications. I also enjoy 
 Additional Interests
 ======
 
-I also enjoy teaching and mentoring, having been a teaching assistant for the Foundations of Machine Learning (Automatic Speech Recognition (CS 753) , Engineering Graphics and Drawing (ME 119) and Biology (BB 101) courses at IIT Bombay. I have also been a department academic mentor for over a year and received the best mentor award. I have served as a mentor for several AI/ML programs in IIT Bombay clubs.
+I also enjoy teaching and mentoring, having been a teaching assistant for several courses at IIT Bombay including Foundations of Machine Learning and Automatic Speech Recognition. I have also been a department academic mentor for two years and received the best mentor award. I have served as a mentor for several AI/ML programs in IIT Bombay clubs.
 
 I love travelling, hiking, and everything to do with nature. Cats, dogs and coffee happen to be great weaknesses :) In my free time, I enjoy art, photography and music. I play the keyboard and have tried my hand at every medium, from pencil sketching, water colors, to acryllics on canvas and even roads.
 
