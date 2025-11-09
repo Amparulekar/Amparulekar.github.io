@@ -13,7 +13,7 @@ collection: portfolio
 
 **Summary:** *Ultrasound (US) imaging is cost-effective, safe and real-time, but it contains noise and artifacts. This project aimed at providing surgeons with mammogram-like image quality in real-time from by modelling ultrasound noise.*
 
-*Paper submitted to the Ultrasonics Journal. 1 review round completed.*
+*Paper published in the Ultrasonics Journal*
 
 [**Paper link**](https://arxiv.org/pdf/2308.05449)
 

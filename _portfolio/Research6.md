@@ -13,7 +13,7 @@ collection: portfolio
 
 **Summary:** *In this project, we combined genetic information, chemotherapy drug properties, patient demographics and imaging data of different kinds to predict tumor progression free interval and effectiveness of chemotherapies.*
 
-*Paper submitted to IEEE ISBI 2025 (International Symposium on Biomedical Imaging*
+*Paper published at IEEE ISBI 2025 (International Symposium on Biomedical Imaging*
 
 [**Paper link**](https://arxiv.org/pdf/2411.00749)
 
