@@ -15,7 +15,7 @@ collection: portfolio
 
 *Paper published at IEEE ISBI 2025 (International Symposium on Biomedical Imaging*
 
-[**Paper link**](https://arxiv.org/pdf/2411.00749)
+[**Paper link**](https://arxiv.org/pdf/2411.00749), [**Poster link**](http://amparulekar.github.io/files/isbi25-poster-temp-9.pdf)
 
 * Created neural Cox Proportional Hazards models for genomic data using graph neural networks and neural ranking
 * Employed discriminator-based domain adaptation and transfer learning to use mouse data to fortify human TCGA data
