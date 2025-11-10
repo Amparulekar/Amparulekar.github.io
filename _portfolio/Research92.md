@@ -1,5 +1,5 @@
 ---
-title: "Speech and Text Generative Models for Automatic Dubbing of Videos"
+title: "Low-resource and Dialectal Speech Generation"
 excerpt: "*Master’s Thesis-II (Nationwide project - BharatGen) at the Computational Speech and Language Technologies Lab, IIT Bombay, Guides: Prof. Preethi Jyothi, Prof. Ganesh Ramakrishnan*"
 isresearch: "yes"
 isacademic: "no"

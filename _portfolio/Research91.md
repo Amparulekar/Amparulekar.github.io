@@ -1,6 +1,6 @@
 ---
-title: "Multilingual Automatic Speech Recognition for Low-resource Languages"
-excerpt: "*Master’s Thesis-I (Nationwide project - Bhashini, NLTM) at the Computational Speech and Language Technologies Lab, IIT Bombay, Guides: Prof. Preethi Jyothi, Prof. Pushpak Bhattacharya*"
+title: "Large Language Model-based metric for Automatic Speech Recognition"
+excerpt: "*Master’s Thesis-I (Nationwide project - Bhashini, NLTM) at the Computational Speech and Language Technologies Lab, IIT Bombay, Guide: Prof. Preethi Jyothi*"
 isresearch: "yes"
 isacademic: "no"
 isintern: "no"
@@ -9,18 +9,13 @@ iscv: "no"
 collection: portfolio
 ---
 
-*Master’s Thesis-I (Nationwide project - Bhashini, NLTM) at the Computational Speech and Language Technologies Lab, IIT Bombay, Guides: Prof. Preethi Jyothi, Prof. Pushpak Bhattacharya*
+*Master’s Thesis-I (Nationwide project - Bhashini, NLTM) at the Computational Speech and Language Technologies Lab, IIT Bombay, Guide: Prof. Preethi Jyothi*
 
-**Summary:** *This project involves creating multilingual Automatic Speech Recognition tools robust to mispronunciation, along with requiring low computation, less data and specifically catering to low resource languages.*
+**Summary:** *This project aimed to develop LASER, a finegrained LLM-based metric for Automatic Speech Recognition.*
 
-*Paper published at the  2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL 2025)*
+*Paper published at the Empirical Methods in Natural language Processing (EMNLP) 2025 (Main conference)*
 
-*Paper published at the 4th Multilingual Representation Learning workshop, EMNLP 2024*
+[**Paper link**](https://arxiv.org/pdf/2510.07437), [**Poster link**](http://amparulekar.github.io/files/EMNLP-2025_main-2768_POSTER.pdf)
 
-[**Paper 1 link**](https://arxiv.org/pdf/2410.13445), [**Poster link**](http://amparulekar.github.io/files/MRL_poster.pdf)
-
-[**Paper 2 link**](https://arxiv.org/pdf/2411.18368), [**Poster link**](http://amparulekar.github.io/files/NAACL_2025_564_AMPS.pdf)
-
-* Designed a novel strategy to incorporate paraphrase supervision in multimodal models and improve ASR for noisy speech
-* Developed a novel sequential method to combine speech-based parameter-efficient fine-tuning and text-only adaptation for multimodal multilingual models like SeamlessM4T, improving ASR on 10+ low-resource Indian and African languages
-* Obtained a 40% WER reduction over baseline on IndicVoices-Maithili and identified a cross-lingual transfer technique that can give more than 17% relative reduction in WER for a low-resource language without using any speech of that language
+* LASER handles linguistic nuances of Indian Languages, transfers across languages and correlates well with human scores
+* Achieved 88.69% accuracy on finetuning Llama 3-8B to get a standardized and efficient pipeline to execute our metric

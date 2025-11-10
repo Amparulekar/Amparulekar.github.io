@@ -13,13 +13,13 @@ collection: portfolio
 
 **Summary:** *This project involves creating multilingual Automatic Speech Recognition tools robust to mispronunciation, along with requiring low computation, less data and specifically catering to low resource languages.*
 
-*Paper published at the  2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL 2025)*
+*Paper published at the 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL 2025) (Main Conference)*
 
-[**Paper 2 link**](https://arxiv.org/pdf/2411.18368), [**Poster link**](http://amparulekar.github.io/files/NAACL_2025_564_AMPS.pdf)
+[**Paper link**](https://arxiv.org/pdf/2411.18368), [**Poster link**](http://amparulekar.github.io/files/NAACL_2025_564_AMPS.pdf)
 
 *Paper published at the 4th Multilingual Representation Learning workshop, EMNLP 2024*
 
-[**Paper 1 link**](https://arxiv.org/pdf/2410.13445), [**Poster link**](http://amparulekar.github.io/files/MRL_poster.pdf)
+[**Paper link**](https://arxiv.org/pdf/2410.13445), [**Poster link**](http://amparulekar.github.io/files/MRL_poster.pdf)
 
 * Designed a novel strategy to incorporate paraphrase supervision in multimodal models and improve ASR for noisy speech
 * Developed a novel sequential method to combine speech-based parameter-efficient fine-tuning and text-only adaptation for multimodal multilingual models like SeamlessM4T, improving ASR on 10+ low-resource Indian and African languages
