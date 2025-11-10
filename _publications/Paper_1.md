@@ -4,7 +4,7 @@ collection: publications
 ispaper: "yes"
 permalink: /publication/1
 excerpt: 'A novel loss function and training technique that can be integrated with a multitude of architectures, for consolidating class labels of different nuclei segmentation and classification datasets.'
-date: 2024-02-21
+date: 2024-02-02
 venue: 'Published and presented in Bioimaging (BIOSTEC), Rome'
 slidesurl: 'http://amparulekar.github.io/files/Bioimaging2024.pdf'
 paperurl: 'https://www.scitepress.org/Papers/2024/123808/123808.pdf'

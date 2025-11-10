@@ -4,8 +4,9 @@ collection: publications
 ispaper: "yes"
 permalink: /publication/5
 excerpt: 'Integrated paraphrase supervision in a multimodal pipeline to improve Automatic Speech Recognition for spontaneous and disfluent speech.'
-date: 2025-02-02
-venue: 'Accepted to NAACL 2025'
+date: 2025-05-05
+venue: 'Published at NAACL 2025 (Main conference)'
+slidesurl: 'http://amparulekar.github.io/files/isbi25-poster-temp-9.pdf'
 paperurl: 'https://arxiv.org/pdf/2411.18368'
 citation: 'Parulekar, A., Gupta, A., Chattopadhyay, S., & Jyothi, P. (2024). AMPS: ASR with Multimodal Paraphrase Supervision. https://arxiv.org/abs/2411.18368 '
 ---

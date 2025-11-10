@@ -4,7 +4,7 @@ collection: publications
 ispaper: "yes"
 permalink: /publication/3
 excerpt: 'Interconversion of CT scans and ultrasounds using wave interference patterns, GANs and fourier domain adaptation.'
-date: 2024-03-03
+date: 2023-09-09
 venue: 'Published in the Ultrasonics journal'
 paperurl: 'https://arxiv.org/pdf/2308.05449'
 citation: 'Almahfouz Nasser S, Sharma A, Saraf A, Parulekar A, Haria P, Sethi A. Towards improving breast cancer detection through multi-modal image generation. Ultrasonics. 2025 Sep;153:107655. doi: 10.1016/j.ultras.2025.107655. Epub 2025 Apr 15. PMID: 40262439.'
