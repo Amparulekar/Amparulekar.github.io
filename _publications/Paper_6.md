@@ -1,14 +1,14 @@
 ---
-title: "AMPS: ASR with Multimodal Paraphrase Supervision"
+title: "LASER: An LLM-based ASR Scoring and Evaluation Rubric"
 collection: publications
 ispaper: "yes"
-permalink: /publication/5
-excerpt: 'Integrated paraphrase supervision in a multimodal pipeline to improve Automatic Speech Recognition for spontaneous and disfluent speech.'
-date: 2025-02-02
-venue: 'Accepted to NAACL 2025'
-paperurl: 'https://arxiv.org/pdf/2411.18368'
-citation: 'Parulekar, A., Gupta, A., Chattopadhyay, S., & Jyothi, P. (2024). AMPS: ASR with Multimodal Paraphrase Supervision. https://arxiv.org/abs/2411.18368 '
+permalink: /publication/6
+excerpt: 'LASER is an LLM-based ASR evaluation metric that aligns closely with human judgments by capturing linguistic nuances across Indian languages better than traditional metrics.'
+date: 2025-11-11
+venue: 'Published at EMNLP 2025 (Main conference)'
+slidesurl: 'http://amparulekar.github.io/files/EMNLP-2025_main-2768_POSTER.pdf'
+paperurl: 'https://arxiv.org/pdf/2510.07437'
+citation: 'Amruta Parulekar and Preethi Jyothi. 2025. LASER: An LLM-based ASR Scoring and Evaluation Rubric. In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing, pages 24773–24782, Suzhou, China. Association for Computational Linguistics.'
 ---
 
-Spontaneous and conversational multilingual speech poses significant challenges for state-of-the-art automatic speech recognition (ASR) systems. In this work, we introduce AMPS, a novel technique that enhances a multilingual multimodal ASR system by incorporating paraphrase-based supervision to improve ASR performance in multiple languages, including Hindi, Marathi, Malayalam, Kannada, and Nyanja.
-Our approach leverages paraphrases of reference transcriptions as additional supervision during training and selectively applies this paraphrase objective to utterances with poor ASR accuracy. By integrating AMPS with the state-of-the-art multimodal model SeamlessM4T, we achieve notable relative reductions in word error rates (WERs) of up to 5%. We also provide a comprehensive analysis of our system using both objective metrics and human evaluations.
+Standard ASR evaluation metrics like Word Error Rate (WER) tend to unfairly penalize morphological and syntactic nuances that do not significantly alter sentence semantics. We introduce an LLM-based scoring rubric LASER that leverages state-of-the-art LLMs' in-context learning abilities to learn from prompts with detailed examples. Hindi LASER scores using Gemini 2.5 Pro achieved a very high correlation score of 94% with human annotations. Hindi examples in the prompt were also effective in analyzing errors in other Indian languages such as Marathi, Kannada and Malayalam. We also demonstrate how a smaller LLM like Llama 3 can be finetuned on word-pair examples derived from reference and ASR predictions to predict what kind of penalty should be applied with close to 89% accuracy.
