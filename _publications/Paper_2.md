@@ -5,7 +5,7 @@ ispaper: "yes"
 permalink: /publication/2
 excerpt: 'Combining computationally efficient techniques like speech-based parameter-efficient finetuning and text-only adaptation to improve automatic speech recognition of low resource languages using multimodal multilingual models.'
 date: 2024-10-10
-venue: 'Accepted to the 4th Multilingual Representation Learning Workshop, EMNLP 2024'
+venue: 'Published at the 4th Multilingual Representation Learning Workshop, EMNLP 2024'
 slidesurl: 'http://amparulekar.github.io/files/MRL_poster.pdf'
 paperurl: 'https://arxiv.org/pdf/2410.13445'
 citation: 'Abhishek Gupta, Amruta Parulekar, Sameep Chattopadhyay, and Preethi Jyothi. 2024. Parameter-efficient Adaptation of Multilingual Multimodal Models for Low-resource ASR. In Proceedings of the Fourth Workshop on Multilingual Representation Learning (MRL 2024), pages 175–185, Miami, Florida, USA. Association for Computational Linguistics.'
